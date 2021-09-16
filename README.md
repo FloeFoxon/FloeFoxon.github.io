@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-![selfie](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/secondOne.jpg)
+![selfie](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/secondOne.jpg =250x250)
 
 
 _____________________________
