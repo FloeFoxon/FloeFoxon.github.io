@@ -2,7 +2,7 @@
 ## Scientist and Data Analyst
 
 
-![selfie](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/secondOne.jpg){:height="50%" width="50%"}
+![selfie](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/bioSelfieCompressed.jpg){:height="50%" width="50%"}
 
 
 _____________________________
@@ -102,4 +102,4 @@ Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 _____________________________
 
 
-![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Floe%20and%20Arielle.jpg)
+![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FloeAndArielleCompressed.jpg)
