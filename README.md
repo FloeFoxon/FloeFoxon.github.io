@@ -79,7 +79,7 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 **Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans.
 
 
-Foxon, F. & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
+**Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
 
 
 _____________________________
