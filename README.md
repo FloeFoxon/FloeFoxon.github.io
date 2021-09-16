@@ -82,6 +82,15 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
 
 
+
+_____________________________
+
+
+### Media Appearances
+
+**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. Available: [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/)
+
+
 _____________________________
 
 
