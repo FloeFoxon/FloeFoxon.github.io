@@ -105,6 +105,9 @@ ORCID: [0000-0002-4893-9178](https://orcid.org/0000-0002-4893-9178)
 ResearchGate: [Floe_Foxon](https://www.researchgate.net/profile/Floe_Foxon)
 
 
+Google Scholar: [Floe Foxon](https://scholar.google.com/citations?user=xVckGTMAAAAJ)
+
+
 Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 
 
