@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-![image](https://pbs.twimg.com/profile_images/1382760175208120320/ibTMqGjJ_400x400.jpg)
+![selfie](https://pbs.twimg.com/profile_images/1382760175208120320/ibTMqGjJ_400x400.jpg)
 
 
 _____________________________
