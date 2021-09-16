@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Floe Foxon
+### Scientist and Data Analyst
 
-You can use the [editor on GitHub](https://github.com/FloeFoxon/FloeFoxon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Email: ffoxon@pinneyassociates.com
+ORCID: [0000-0002-4893-9178](https://orcid.org/0000-0002-4893-9178)
+ResearchGate: [Floe_Foxon](https://www.researchgate.net/profile/Floe_Foxon)
+Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
