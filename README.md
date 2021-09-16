@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-![selfie](https://pbs.twimg.com/profile_images/1382760175208120320/ibTMqGjJ_400x400.jpg)
+![selfie](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/secondOne.jpg)
 
 
 _____________________________
@@ -96,3 +96,9 @@ ResearchGate: [Floe_Foxon](https://www.researchgate.net/profile/Floe_Foxon)
 
 
 Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
+
+
+_____________________________
+
+
+![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Floe%20and%20Arielle.jpg)
