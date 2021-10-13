@@ -73,10 +73,10 @@ _____________________________
 **Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine*. Virtual. Available: [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
 
 
-Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual.
+Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/9fc20a470dc79592926a803b7c448330d96cce15/Comparing%20Smoking%20Prevalence,%20Quit%20Attempts,%20and%20Harm%20Perceptions%20Among%20Younger%20and%20Older%20Smokers.pdf).
 
 
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans.
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/9fc20a470dc79592926a803b7c448330d96cce15/Electronic%20Cigarettes%20and%20Nicotine%20Use%20Trends%20among%20US%20Adolescents%20SRNT%202020%20Poster.pdf).
 
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
