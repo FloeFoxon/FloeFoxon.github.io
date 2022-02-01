@@ -41,6 +41,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. *Solar Physics*. Under Review. Preprint in production at Research Square.
+
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. Available: [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
 
