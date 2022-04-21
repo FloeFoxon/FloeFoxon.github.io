@@ -2,7 +2,7 @@
 ## Scientist and Data Analyst
 
 
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="30%" width="30%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}
 
 
 _____________________________
