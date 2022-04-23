@@ -41,7 +41,7 @@ _____________________________
 
 #### As First Author
 
-**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. Under review.
+**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. Under revisions.
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. Available: [https://doi.org/10.21203/rs.3.rs-1319069/v2](https://doi.org/10.21203/rs.3.rs-1319069/v2).
 
