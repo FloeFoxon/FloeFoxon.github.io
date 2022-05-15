@@ -74,6 +74,8 @@ _____________________________
 
 ### Presentations
 
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry.
+
 **Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. Available: [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
 
 
