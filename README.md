@@ -76,7 +76,7 @@ _____________________________
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry.
 
-**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. Available: [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
+**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. Available [here](https://youtu.be/Q9SXPm-W26M).
 
 
 Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/9fc20a470dc79592926a803b7c448330d96cce15/Comparing%20Smoking%20Prevalence,%20Quit%20Attempts,%20and%20Harm%20Perceptions%20Among%20Younger%20and%20Older%20Smokers.pdf).
