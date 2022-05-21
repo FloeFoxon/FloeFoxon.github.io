@@ -94,7 +94,7 @@ _____________________________
 
 ### Media Appearances
 
-**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. Available: [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/)
+**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. Available [here](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/).
 
 
 _____________________________
