@@ -43,7 +43,7 @@ _____________________________
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Under review. Preprint available: [https://doi.org/10.21203/rs.3.rs-1639304/v1](https://doi.org/10.21203/rs.3.rs-1639304/v1)
 
-**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. Under revisions.
+**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. In press.
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. Available: [https://doi.org/10.21203/rs.3.rs-1319069/v2](https://doi.org/10.21203/rs.3.rs-1319069/v2).
 
