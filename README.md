@@ -1,9 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-<!---
 ![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}
--->
 
 _____________________________
 
@@ -140,6 +138,4 @@ Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 _____________________________
 
 
-<!---
 ![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FloeAndArielleCompressed.jpg)
--->
