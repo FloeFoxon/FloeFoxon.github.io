@@ -122,7 +122,7 @@ _____________________________
 
 ### Contact and Socials
 
-Email: [ffoxon@pinneyassociates.com](ffoxon@pinneyassociates.com)
+Email: [ffoxon@pinneyassociates.com](mailto:ffoxon@pinneyassociates.com)
 
 
 ORCID: [0000-0002-4893-9178](https://orcid.org/0000-0002-4893-9178)
