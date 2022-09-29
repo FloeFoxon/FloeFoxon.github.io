@@ -15,7 +15,7 @@ _____________________________
 *2017-2020*
 
 
-**Professional Certificate** Data Science (1<sup>st</sup> Class) \
+**Professional Certificate** Data Science \
 [IBM; Coursera](https://www.youracclaim.com/users/floe-foxon/badges) \
 *2020*
 
