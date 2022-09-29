@@ -43,6 +43,16 @@ _____________________________
 
 _____________________________
 
+### Awards
+
+First Year Scholarship Award for Academic Achievement \
+[University of Nottingham](https://www.nottingham.ac.uk/physics/) \
+*2018*
+
+
+
+_____________________________
+
 ### Publications
 
 #### As First Author
