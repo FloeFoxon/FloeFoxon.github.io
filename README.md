@@ -1,9 +1,9 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-
+<!---
 ![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}
-
+-->
 
 _____________________________
 
@@ -13,6 +13,12 @@ _____________________________
 **BSc (Hons)** Physics with Astronomy (1<sup>st</sup> Class) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017-2020*
+
+
+**Professional Certificate** Data Science (1<sup>st</sup> Class) \
+[IBM; Coursera](https://www.youracclaim.com/users/floe-foxon/badges) \
+*2020*
+
 
 
 _____________________________
@@ -124,4 +130,6 @@ Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 _____________________________
 
 
+<!---
 ![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FloeAndArielleCompressed.jpg)
+-->
