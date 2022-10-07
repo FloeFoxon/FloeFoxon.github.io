@@ -82,6 +82,8 @@ _____________________________
 
 #### As Coauthor
 
+Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2022) Meta-Analysis of E-Cigarette Price Elasticity. Preprint available: [https://doi.org/10.31219/osf.io/4ub2r ](https://osf.io/4ub2r/)
+
 Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. Available: [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
 Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. Available: [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
