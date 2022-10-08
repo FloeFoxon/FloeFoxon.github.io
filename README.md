@@ -43,7 +43,7 @@ _____________________________
 
 ### Awards
 
-First Year Scholarship Award for Academic Achievement \
+**First Year Scholarship Award for Academic Achievement** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2018*
 
