@@ -57,7 +57,7 @@ _____________________________
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. Available: [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
-**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Under revisions. Preprint available: [https://doi.org/10.21203/rs.3.rs-1639304/v1](https://doi.org/10.21203/rs.3.rs-1639304/v1)
+**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Accepted, in print. Preprint available: [https://doi.org/10.21203/rs.3.rs-1639304/v1](https://doi.org/10.21203/rs.3.rs-1639304/v1)
 
 **Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. Available: [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
 
