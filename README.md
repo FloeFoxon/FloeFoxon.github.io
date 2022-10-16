@@ -143,5 +143,6 @@ Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
 
 _____________________________
 
-
+<!---
 ![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FloeAndArielleCompressed.jpg)
+-->
