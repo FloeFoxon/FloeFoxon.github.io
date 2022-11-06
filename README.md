@@ -94,6 +94,12 @@ Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Convent
 
 _____________________________
 
+### Post-Publication Peer Reviews
+
+Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. Available: [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
+
+_____________________________
+
 ### Presentations
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/main/Iron%20Abundance%20in%20the%20Solar%20Photosphere.pdf).
@@ -110,9 +116,7 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
 
 
-
 _____________________________
-
 
 ### Media Appearances
 
@@ -122,7 +126,6 @@ _____________________________
 
 
 _____________________________
-
 
 ### Contact and Socials
 
