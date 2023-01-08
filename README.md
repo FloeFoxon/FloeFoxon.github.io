@@ -55,6 +55,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). If it's real, could it be an eel? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
+
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. Available: [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Available: [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
