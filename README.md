@@ -55,6 +55,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
+
 **Foxon, F.** (2023). If it's real, could it be an eel? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. Available: [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
