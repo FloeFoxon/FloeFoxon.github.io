@@ -126,6 +126,8 @@ _____________________________
 
 ### Media Appearances
 
+*The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows* (2023). Available [here](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/?utm_campaign=socialflowTWPOP&utm_source=twitter&src=socialflowTW&utm_medium=social-media).
+
 **A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. Available [here](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/).
 
 **On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. Available [here](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/).
