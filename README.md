@@ -126,7 +126,7 @@ _____________________________
 
 ### Media Appearances
 
-**Bigfoot is a bear but Loch Ness is not a giant eel, says data scientist using maths to explain legends** (2023). The Telegraph. Available [here](https://www.telegraph.co.uk/news/2023/01/22/bigfoot-bear-loch-ness-not-giant-eel-says-data-scientist-using/).
+**Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. Available [here](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/).
 
 **The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. Available [here](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/?utm_campaign=socialflowTWPOP&utm_source=twitter&src=socialflowTW&utm_medium=social-media).
 
