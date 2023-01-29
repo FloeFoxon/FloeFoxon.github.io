@@ -86,6 +86,8 @@ _____________________________
 
 #### As Coauthor
 
+Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.**. What substances are adolescents vaping? Estimating nicotine-specific and marijuana-specific vaping from US national youth surveys. Preprint available: [https://doi.org/10.32388/98QBMM](https://doi.org/10.32388/98QBMM)
+
 Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2022) Meta-Analysis of E-Cigarette Price Elasticity. Preprint available: [https://doi.org/10.31219/osf.io/4ub2r](https://doi.org/10.31219/osf.io/4ub2r)
 
 Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. Available: [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
