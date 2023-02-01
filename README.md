@@ -128,6 +128,8 @@ _____________________________
 
 ### Media Appearances
 
+**Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. Available [here](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html).
+
 **Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. Available [here](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/).
 
 **The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. Available [here](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/).
