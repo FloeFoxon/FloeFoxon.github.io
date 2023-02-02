@@ -55,6 +55,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). Re Impact of the e-cigarette era on cigarette smoking among youth in the United States A population-level study *Preventive Medicine*. In press.
+
 **Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
 **Foxon, F.** (2023). If it's real, could it be an eel? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
@@ -88,7 +90,7 @@ _____________________________
 
 Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.**. What substances are adolescents vaping? Estimating nicotine-specific and marijuana-specific vaping from US national youth surveys. Preprint available: [https://doi.org/10.32388/98QBMM](https://doi.org/10.32388/98QBMM)
 
-Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2022) Meta-Analysis of E-Cigarette Price Elasticity. Preprint available: [https://doi.org/10.31219/osf.io/4ub2r](https://doi.org/10.31219/osf.io/4ub2r)
+Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023) Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. Available: [https://doi.org/10.12688/f1000research.129233.1](https://doi.org/10.12688/f1000research.129233.1)
 
 Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. Available: [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
