@@ -55,7 +55,7 @@ _____________________________
 
 #### As First Author
 
-**Foxon, F.** (2023). Re Impact of the e-cigarette era on cigarette smoking among youth in the United States A population-level study *Preventive Medicine*. In press.
+**Foxon, F.** (2023). Re Impact of the e-cigarette era on cigarette smoking among youth in the United States A population-level study *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444).
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
