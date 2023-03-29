@@ -105,9 +105,9 @@ Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Convent
 
 _____________________________
 
-### Peer Reviews
+### Peer Reviews and Critiques
 
-Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. Available: [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1)
+Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. Available: [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1) and [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#2](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#2)
 
 Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. Available: [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
 
