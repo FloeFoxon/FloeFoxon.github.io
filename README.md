@@ -58,11 +58,11 @@ _____________________________
 **Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444).
 
 
-**Foxon, F.** (2023). If not a fake, what's in the lake? *biorXiv*. Available: [https://doi.org/10.1101/2023.03.01.530639](https://doi.org/10.1101/2023.03.01.530639)
+**Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. Technical Report Available: [https://doi.org/10.1101/2023.03.01.530639](https://doi.org/10.1101/2023.03.01.530639)
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *PeerRef BioMed*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
+**Foxon, F.** (2023). If it's real, could it be an eel? *PeerRef Bio*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. Available: [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
@@ -75,7 +75,7 @@ _____________________________
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. Available: [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
 
-**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. Available: [https://paleorxiv.org/ewkx9](https://paleorxiv.org/ewkx9)
+**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. Available: [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
 
 
 **Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. Available: [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
