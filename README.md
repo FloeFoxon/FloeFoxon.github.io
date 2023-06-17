@@ -58,72 +58,70 @@ _____________________________
 **Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444).
 
 
-**Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. Available: [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/)
+**Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/)
 
-**Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. Available: [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
+**Foxon, F.** (2023). If it's there, could it be a bear? *biorXiv*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *PeerRef Bio*. Available: [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
+**Foxon, F.** (2023). If it's real, could it be an eel? *PeerRef Bio*. [https://doi.org/10.1101/2023.01.07.523085](https://doi.org/10.1101/2023.01.07.523085)
 
-**Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. Available: [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
+**Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
-**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Available: [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
+**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
 
-**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. Available: [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
+**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
 
-**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. Available: [https://doi.org/10.21203/rs.3.rs-1319069/v3](https://doi.org/10.21203/rs.3.rs-1319069/v3).
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. [https://doi.org/10.21203/rs.3.rs-1319069/v3](https://doi.org/10.21203/rs.3.rs-1319069/v3).
 
-**Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. Available: [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
-
-
-**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. Available: [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
+**Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
 
-**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. Available: [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
+**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
 
 
-**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. Available: [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
+**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
 
 
-**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. Available: [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
+**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
 
 
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. Available: [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
+**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
+
+
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
 #### As Coauthor
 
-Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.**. What substances are adolescents vaping? Estimating nicotine-specific and marijuana-specific vaping from US national youth surveys. Preprint available: [https://doi.org/10.32388/98QBMM](https://doi.org/10.32388/98QBMM)
+Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.**. What substances are adolescents vaping? Estimating nicotine-specific and marijuana-specific vaping from US national youth surveys. *Qeios*. [https://doi.org/10.32388/98QBMM](https://doi.org/10.32388/98QBMM)
 
-Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023) Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. Available: [https://doi.org/10.12688/f1000research.129233.1](https://f1000research.com/articles/12-121)
+Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023) Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. [https://doi.org/10.12688/f1000research.129233.1](https://f1000research.com/articles/12-121)
 
-Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. Available: [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
+Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
-Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. Available: [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
+Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
 
-Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. Available: [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
+Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
 
 
 _____________________________
 
 ### Peer Reviews and Critiques
 
-Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. Available: [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E)
+Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E)
 
-Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. Available: [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
+Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
 
 _____________________________
 
 ### Presentations
 
-**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/main/Iron%20Abundance%20in%20the%20Solar%20Photosphere.pdf).
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.17605/OSF.IO/JKW8Y](https://doi.org/10.17605/OSF.IO/JKW8Y)
 
 **Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. Available [here](https://youtu.be/Q9SXPm-W26M).
 
+Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. Available [https://doi.org/10.17605/OSF.IO/JR7EN](https://doi.org/10.17605/OSF.IO/JR7EN)
 
-Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/9fc20a470dc79592926a803b7c448330d96cce15/Comparing%20Smoking%20Prevalence,%20Quit%20Attempts,%20and%20Harm%20Perceptions%20Among%20Younger%20and%20Older%20Smokers.pdf).
-
-
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. Available [here](https://github.com/FloeFoxon/FloeFoxon.github.io/blob/9fc20a470dc79592926a803b7c448330d96cce15/Electronic%20Cigarettes%20and%20Nicotine%20Use%20Trends%20among%20US%20Adolescents%20SRNT%202020%20Poster.pdf).
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.17605/OSF.IO/PQ4R6](https://doi.org/10.17605/OSF.IO/PQ4R6).
 
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
