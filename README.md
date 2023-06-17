@@ -117,9 +117,9 @@ _____________________________
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.17605/OSF.IO/JKW8Y](https://doi.org/10.17605/OSF.IO/JKW8Y)
 
-**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. Available [here](https://youtu.be/Q9SXPm-W26M).
+**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M).
 
-Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. Available [https://doi.org/10.17605/OSF.IO/JR7EN](https://doi.org/10.17605/OSF.IO/JR7EN)
+Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. [https://doi.org/10.17605/OSF.IO/JR7EN](https://doi.org/10.17605/OSF.IO/JR7EN)
 
 **Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.17605/OSF.IO/PQ4R6](https://doi.org/10.17605/OSF.IO/PQ4R6).
 
@@ -131,15 +131,15 @@ _____________________________
 
 ### Media Appearances
 
-**Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. Available [here](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html).
+**Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. [https://phys.org/news/2023-01-scientist-bigfoot-sightings.html](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html).
 
-**Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. Available [here](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/).
+**Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. [https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/).
 
-**The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. Available [here](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/).
+**The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. [https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/).
 
-**A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. Available [here](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/).
+**A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. [https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/).
 
-**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. Available [here](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/).
+**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/).
 
 
 _____________________________
