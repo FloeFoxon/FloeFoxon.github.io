@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}
+<!---![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}-->
 
 _____________________________
 
@@ -22,6 +22,11 @@ _____________________________
 _____________________________
 
 ### Positions
+
+**Scientist, Founder** \
+Folk Zoology Society \
+*2023-Present*
+
 
 **Data Analyst** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/floe-foxon/) \
