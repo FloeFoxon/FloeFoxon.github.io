@@ -24,7 +24,7 @@ _____________________________
 ### Positions
 
 **Scientist, Founder** \
-Folk Zoology Society \
+[Folk Zoology Society](https://linktr.ee/folkzoologysociety) \
 *2023-Present*
 
 
