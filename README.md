@@ -60,6 +60,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. In press.
+
 **Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. [https://ia.cr/2023/982](https://ia.cr/2023/982)
 
 **Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444).
@@ -80,18 +82,13 @@ _____________________________
 
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
-
 **Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
-
 
 **Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
 
-
 **Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
 
-
 **Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
-
 
 **Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
@@ -104,7 +101,6 @@ Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023) Meta-Analysis of E-Ci
 Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
 Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
-
 
 Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
 
