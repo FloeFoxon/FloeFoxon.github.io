@@ -64,13 +64,13 @@ _____________________________
 
 **Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. [https://ia.cr/2023/982](https://ia.cr/2023/982)
 
-**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444).
+**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
 
 **Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/)
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *PeerRef*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. [https://doi.org/10.2196/49063](https://doi.org/10.2196/49063)
+**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
@@ -78,7 +78,7 @@ _____________________________
 
 **Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
 
-**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. [https://doi.org/10.21203/rs.3.rs-1319069/v3](https://doi.org/10.21203/rs.3.rs-1319069/v3).
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. [https://doi.org/10.21203/rs.3.rs-1319069/v3](https://doi.org/10.21203/rs.3.rs-1319069/v3)
 
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
@@ -119,11 +119,11 @@ _____________________________
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.17605/OSF.IO/JKW8Y](https://doi.org/10.17605/OSF.IO/JKW8Y)
 
-**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M).
+**Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
 
 Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. [https://doi.org/10.17605/OSF.IO/JR7EN](https://doi.org/10.17605/OSF.IO/JR7EN)
 
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.17605/OSF.IO/PQ4R6](https://doi.org/10.17605/OSF.IO/PQ4R6).
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.17605/OSF.IO/PQ4R6](https://doi.org/10.17605/OSF.IO/PQ4R6)
 
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
@@ -135,13 +135,13 @@ _____________________________
 
 **Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. [https://phys.org/news/2023-01-scientist-bigfoot-sightings.html](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html).
 
-**Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. [https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/).
+**Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. [https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/)
 
-**The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. [https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/).
+**The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. [https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/)
 
-**A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. [https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/).
+**A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. [https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/)
 
-**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/).
+**On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/)
 
 
 _____________________________
