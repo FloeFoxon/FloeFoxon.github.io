@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FoxonCompressed.jpg){:height="50%" width="50%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}
 
 _____________________________
 
