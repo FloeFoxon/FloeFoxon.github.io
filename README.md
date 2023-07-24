@@ -133,11 +133,13 @@ _____________________________
 
 ### Media Appearances
 
-**Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. [https://phys.org/news/2023-01-scientist-bigfoot-sightings.html](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html).
+**Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. [https://phys.org/news/2023-01-scientist-bigfoot-sightings.html](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html)
 
 **Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. [https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/)
 
 **The Loch Ness Monster Absolutely Can't Be an Eel, Study Shows** (2023). Popular Mechanics. [https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/](https://www.popularmechanics.com/science/animals/a42574648/loch-ness-monster-what-is-it-study/)
+
+**Unraveling the Loch Ness Monster’s Eel Connection** (2023). JMIR Blog. [https://blog.jmir.org/2023/07/24/unraveling-the-loch-ness-monsters-eel-connection/](https://blog.jmir.org/2023/07/24/unraveling-the-loch-ness-monsters-eel-connection/)
 
 **A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. [https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/)
 
