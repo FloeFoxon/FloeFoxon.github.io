@@ -135,6 +135,8 @@ _____________________________
 
 ### Media Appearances
 
+**Exclusive: Public health journal says it will retract vaping paper for questions authors say were addressed in peer review** (2023). Retraction Watch. [https://retractionwatch.com/2023/07/27/exclusive-public-health-journal-says-it-will-retract-vaping-paper-for-questions-authors-say-were-addressed-in-peer-review/](https://retractionwatch.com/2023/07/27/exclusive-public-health-journal-says-it-will-retract-vaping-paper-for-questions-authors-say-were-addressed-in-peer-review/).
+
 **Data scientist suggests many Bigfoot sightings may be bear sightings** (2023). Phys.org. [https://phys.org/news/2023-01-scientist-bigfoot-sightings.html](https://phys.org/news/2023-01-scientist-bigfoot-sightings.html)
 
 **Reports of Bigfoot rise when at least 900 black bears are in the area** (2023). New Scientist. [https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/](https://www.newscientist.com/article/2356845-reports-of-bigfoot-rise-when-at-least-900-black-bears-are-in-the-area/)
