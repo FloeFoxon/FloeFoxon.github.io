@@ -62,21 +62,21 @@ _____________________________
 
 **Foxon, F.** (2023). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. In press.
 
-**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. In press.
+**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. In press.
 
-**Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. [https://ia.cr/2023/982](https://ia.cr/2023/982)
+**Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. 2023/982. [https://ia.cr/2023/982](https://ia.cr/2023/982)
 
-**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
+**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. 164:107265. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
 
 **Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/)
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *PeerRef*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
+**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
-**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
+**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. 22:1940. [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
 
 **Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
 
@@ -86,13 +86,13 @@ _____________________________
 
 **Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
 
-**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
+**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. 36:100486. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
 
-**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
+**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. 56(10):1559–1563. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
 
-**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
+**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. 38(1):1–5. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
 
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
 #### As Coauthor
 
@@ -104,7 +104,8 @@ Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evi
 
 Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
+Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
+
 
 
 _____________________________
@@ -114,6 +115,8 @@ _____________________________
 Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E)
 
 Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
+
+
 
 _____________________________
 
@@ -129,6 +132,7 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
+
 
 
 _____________________________
@@ -150,6 +154,7 @@ _____________________________
 **A Statistical Analysis of the Rilke Cryptogram** (2022). Cipherbrain. [https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/](https://scienceblogs.de/klausis-krypto-kolumne/a-statistical-analysis-of-the-rilke-cryptogram/)
 
 **On Stars, Ciphers, and Cigarettes** (2020). University of Nottingham Blog. [https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/](https://blogs.nottingham.ac.uk/physics/2020/07/31/on-stars-ciphers-and-cigarettes/)
+
 
 
 _____________________________
