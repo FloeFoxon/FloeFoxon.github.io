@@ -60,6 +60,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). How Much Iron Is In The Sun? *Astronomy & Geophysics*. In press.
+
 **Foxon, F.** (2023). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. In press.
 
 **Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. In press.
@@ -79,8 +81,6 @@ _____________________________
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. 22:1940. [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
 
 **Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
-
-**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere: The Role of Ions, Non-LTE, Model Atmospheres, Oscillator Strengths, and Free Parameters. [https://doi.org/10.21203/rs.3.rs-1319069/v3](https://doi.org/10.21203/rs.3.rs-1319069/v3)
 
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
