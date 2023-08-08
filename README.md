@@ -60,6 +60,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *biorXiv*. [https://doi.org/10.1101/2023.08.07.552261](https://doi.org/10.1101/2023.08.07.552261)
+
 **Foxon, F.** (2023). How Much Iron Is In The Sun? *Astronomy & Geophysics*. In press.
 
 **Foxon, F.** (2023). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. In press.
