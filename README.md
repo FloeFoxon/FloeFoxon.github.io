@@ -86,7 +86,7 @@ _____________________________
 
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
-**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleo*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
+**Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleontology*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
 
 **Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. 36:100486. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
 
