@@ -23,7 +23,7 @@ _____________________________
 
 ### Positions
 
-**Scientist, Founder** \
+**Founder** \
 [Folk Zoology Society](https://linktr.ee/folkzoologysociety) \
 *2023-Present*
 
@@ -135,7 +135,6 @@ _____________________________
 Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. [https://doi.org/10.17605/OSF.IO/JR7EN](https://doi.org/10.17605/OSF.IO/JR7EN)
 
 **Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.17605/OSF.IO/PQ4R6](https://doi.org/10.17605/OSF.IO/PQ4R6)
-
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
 
