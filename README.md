@@ -68,7 +68,7 @@ _____________________________
 
 **Foxon, F.** (2023). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. In press.
 
-**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. In press.
+**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. [https://doi.org/10.31219/osf.io/x46hd](https://osf.io/x46hd/)
 
 **Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. 2023/982. [https://ia.cr/2023/982](https://ia.cr/2023/982)
 
