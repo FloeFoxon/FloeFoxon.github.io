@@ -60,7 +60,7 @@ _____________________________
 
 #### As First Author
 
-**Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20:6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
+**Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20(18):6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
 
 **Foxon, F.** (2023). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *biorXiv*. [https://doi.org/10.1101/2023.08.07.552261](https://www.biorxiv.org/content/10.1101/2023.08.07.552261)
 
