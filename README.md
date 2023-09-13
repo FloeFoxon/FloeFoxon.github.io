@@ -128,7 +128,7 @@ _____________________________
 
 ### Presentations
 
-**Foxon, F.** (2023). Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E) Conference 2023*. London. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
+**Foxon, F.** (2023). Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. London. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
 
 **Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.31219/osf.io/z937r](https://osf.io/z937r/)
 
