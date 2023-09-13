@@ -128,7 +128,9 @@ _____________________________
 
 ### Presentations
 
-**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.17605/OSF.IO/JKW8Y](https://doi.org/10.17605/OSF.IO/JKW8Y)
+**Foxon, F.** (2023). Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E) Conference 2023*. London. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
+
+**Foxon, F.** (2022). Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.31219/osf.io/z937r](https://osf.io/z937r/)
 
 **Foxon, F.** (2021) EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
 
