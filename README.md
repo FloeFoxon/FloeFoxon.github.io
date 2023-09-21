@@ -76,7 +76,7 @@ _____________________________
 
 **Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. 164:107265. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
 
-**Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/). Translated to German and republished in *Skeptiker*.
+**Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/). Translated to German and republished in *Skeptiker*. [https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023](https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023)
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *PeerRef*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
