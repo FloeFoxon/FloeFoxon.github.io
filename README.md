@@ -148,6 +148,8 @@ _____________________________
 
 ### Media Appearances
 
+**Seen Bigfoot or the Loch Ness Monster? Data suggest the odds are low** (2023). ScienceNews. [https://www.sciencenews.org/article/bigfoot-loch-ness-monster-data-pseudoscience](https://www.sciencenews.org/article/bigfoot-loch-ness-monster-data-pseudoscience)
+
 **Medical Journal Retracts Vaping Study for Political, Rather than Scientific Reasons** (2023). Tobacco Analysis. [https://tobaccoanalysis.blogspot.com/2023/07/medical-journal-retracts-vaping-study.html](https://tobaccoanalysis.blogspot.com/2023/07/medical-journal-retracts-vaping-study.html)
 
 **Exclusive: Public health journal says it will retract vaping paper for questions authors say were addressed in peer review** (2023). Retraction Watch. [https://retractionwatch.com/2023/07/27/exclusive-public-health-journal-says-it-will-retract-vaping-paper-for-questions-authors-say-were-addressed-in-peer-review/](https://retractionwatch.com/2023/07/27/exclusive-public-health-journal-says-it-will-retract-vaping-paper-for-questions-authors-say-were-addressed-in-peer-review/).
