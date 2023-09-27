@@ -64,7 +64,7 @@ _____________________________
 
 **Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20(18):6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
 
-**Foxon, F.** (2023). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *biorXiv*. [https://doi.org/10.1101/2023.08.07.552261](https://www.biorxiv.org/content/10.1101/2023.08.07.552261)
+**Foxon, F.** (2023). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *PCI Ecology* (under revisions). [https://doi.org/10.1101/2023.08.07.552261](https://www.biorxiv.org/content/10.1101/2023.08.07.552261)
 
 **Foxon, F.** (2023). How Much Iron Is In The Sun? *Astronomy & Geophysics*. In press.
 
@@ -80,7 +80,7 @@ _____________________________
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *PeerRef*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
+**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio* (via *PeerRef*). 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
