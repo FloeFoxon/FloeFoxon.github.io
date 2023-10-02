@@ -60,6 +60,8 @@ _____________________________
 
 #### As First Author
 
+**Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. In press.
+
 **Foxon, F.**. (2023). Can Bayesian Statistics Be Used to Analyze Phenomena in Folk Zoology? *Journal of Scientific Exploration*. 37(3). In press.
 
 **Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20(18):6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
