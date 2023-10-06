@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Scientist and Data Analyst
 
-[biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}
 
 _____________________________
 
@@ -149,6 +149,8 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 _____________________________
 
 ### Media Appearances
+
+**Authors file complaint with publisher as journal retracts vaping paper** (2023). Retraction Watch. [https://retractionwatch.com/2023/10/04/authors-file-complaint-with-publisher-as-journal-retracts-vaping-paper/](https://retractionwatch.com/2023/10/04/authors-file-complaint-with-publisher-as-journal-retracts-vaping-paper/)
 
 **Seen Bigfoot or the Loch Ness Monster? Data suggest the odds are low** (2023). ScienceNews. [https://www.sciencenews.org/article/bigfoot-loch-ness-monster-data-pseudoscience](https://www.sciencenews.org/article/bigfoot-loch-ness-monster-data-pseudoscience)
 
