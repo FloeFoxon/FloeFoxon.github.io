@@ -84,7 +84,7 @@ _____________________________
 
 **Foxon, F.** (2023). If it's there, could it be a bear? *PeerRef*. [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio* (via *PeerRef*). 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
+**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
