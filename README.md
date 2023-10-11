@@ -60,7 +60,7 @@ _____________________________
 
 #### As First Author
 
-**Foxon, F.** (2024). Heuvelmans the Heretic: Cryptozoology as Heterodox and Orthodox Science *Interdisciplinary Science Reviews*. Under review.
+**Foxon, F.** (2024). Heuvelmans the Heretic: Cryptozoology as Heterodox and Orthodox Science. *Interdisciplinary Science Reviews*. Under review.
 
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
