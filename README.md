@@ -120,15 +120,17 @@ Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Convent
 
 _____________________________
 
-### Peer Reviews, Critiques, and Responses
+### Peer Reviews and Responses
 
-Review of 'Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study'. [https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1](https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1)
+Post-Publication Review of 'Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study'. [https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1](https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1)
 
 Response to Journal on 'Population-level counterfactual trend modelling to examine the relationship between smoking prevalence and e-cigarette use among US adults'. [https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2](https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2)
 
-Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1)
+Peer review of 'Automatic identification and morphological comparison of bivalve and brachiopod fossils based on deep learning'. [https://peerj.com/articles/16200/reviews/](https://peerj.com/articles/16200/reviews/)
 
-Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
+Post-Publication Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1)
+
+Post-Publication Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
 
 
 
