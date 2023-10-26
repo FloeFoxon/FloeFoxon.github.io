@@ -158,6 +158,8 @@ _____________________________
 
 ### Media Appearances
 
+**Giant Moa "Sightings" Were Last Reported In 1993, When Did They Go Extinct?** (2023). IFLScience. [https://www.iflscience.com/giant-moa-sightings-were-last-reported-in-1993-when-did-they-go-extinct-71286](https://www.iflscience.com/giant-moa-sightings-were-last-reported-in-1993-when-did-they-go-extinct-71286)
+
 **Floe Foxon Interview** (2023). BBC Radio 5 Live (Colin Murray 02/10/2023). [https://www.bbc.co.uk/sounds/play/m001r125](https://www.bbc.co.uk/sounds/play/m001r125)
 
 **Authors file complaint with publisher as journal retracts vaping paper** (2023). Retraction Watch. [https://retractionwatch.com/2023/10/04/authors-file-complaint-with-publisher-as-journal-retracts-vaping-paper/](https://retractionwatch.com/2023/10/04/authors-file-complaint-with-publisher-as-journal-retracts-vaping-paper/)
