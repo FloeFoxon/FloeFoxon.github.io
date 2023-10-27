@@ -8,9 +8,13 @@ _____________________________
 
 ### Education
 
+**MSc** Data Science (Statistics) \
+[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
+*2024–Present*
+
 **BSc (Hons)** Physics with Astronomy (1<sup>st</sup> Class) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
-*2017-2020*
+*2017–2020*
 
 
 **Professional Certificate** Data Science \
