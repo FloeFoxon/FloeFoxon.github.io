@@ -111,15 +111,15 @@ _____________________________
 
 #### As Coauthor
 
-Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.**. What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
+Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.** (2023). What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
 
-Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023) Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. [https://doi.org/10.12688/f1000research.129233.1](https://f1000research.com/articles/12-121)
+Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023). Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. [https://doi.org/10.12688/f1000research.129233.1](https://f1000research.com/articles/12-121)
 
-Juul Labs Inc., **Foxon, F.** (2022) Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
+Juul Labs Inc., **Foxon, F.** (2022). Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
-Selya, A.S., **Foxon, F.** (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
+Selya, A.S., **Foxon, F.** (2021). Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-Selya, A.S., **Foxon, F.** (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
+Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
 
 
 
