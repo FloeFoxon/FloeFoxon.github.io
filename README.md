@@ -16,9 +16,8 @@ _____________________________
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
 
-
 **Professional Certificate** Data Science \
-[IBM; Coursera](https://www.youracclaim.com/users/floe-foxon/badges) \
+[IBM](https://www.youracclaim.com/users/floe-foxon/badges) \
 *2020*
 
 
@@ -70,9 +69,9 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. Accepted, in press.
 
-**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
-
 **Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. Accepted, in press.
+
+**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
 
 **Foxon, F.**. (2023). Can Bayesian Statistics Be Used to Analyze Phenomena in Folk Zoology? *Journal of Scientific Exploration*. 37(3):570–571. [https://doi.org/10.31275/20233065](https://journalofscientificexploration.org/index.php/jse/article/view/3065)
 
