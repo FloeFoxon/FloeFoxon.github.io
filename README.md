@@ -95,7 +95,7 @@ _____________________________
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. 22:1940. [https://doi.org/10.31219/osf.io/y7r3d](https://osf.io/y7r3d/)
 
-**Foxon, F.** (2022). A Treatise on the Rilke Cryptogram. *Cryptologia*. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
+**Foxon, F.** (2022). A treatise on the Rilke cryptogram. *Cryptologia*. 47(6):493–510. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
 
 **Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
