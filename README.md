@@ -69,7 +69,7 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. Accepted, in press.
 
-**Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. Accepted, in press.
+**Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
 
 **Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
 
