@@ -68,7 +68,7 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. Accepted, in press.
 
-**Foxon, F.** (2024). If it's there, could it be a bear? *Journal of Zoology* Accepted, in press. Preprint available at [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
+**Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* Accepted, in press. Preprint available at [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
 
 **Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
 
@@ -88,7 +88,7 @@ _____________________________
 
 **Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/). Translated to German and republished in *Skeptiker*. [https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023](https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023)
 
-**Foxon, F.** (2023). If it's real, could it be an eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
+**Foxon, F.** (2023). The Loch Ness Monster: If It's Real, Could It Be an Eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
