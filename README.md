@@ -68,7 +68,7 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. Accepted, in press.
 
-**Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* Accepted, in press. Preprint available at [https://doi.org/10.1101/2023.01.14.524058](https://doi.org/10.1101/2023.01.14.524058)
+**Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
 
 **Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
 
