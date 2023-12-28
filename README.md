@@ -110,7 +110,7 @@ _____________________________
 
 #### As Coauthor
 
-Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.** (2023). What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
+Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.** (2023). What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. 59(2):218–224. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
 
 Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023). Meta-Analysis of E-Cigarette Price Elasticity. *F1000*. [https://doi.org/10.12688/f1000research.129233.1](https://f1000research.com/articles/12-121)
 
