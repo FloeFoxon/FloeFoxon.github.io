@@ -68,7 +68,7 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
 
-**Foxon, F.** (2024). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *Belgian Journal of Zoology (via PCI Ecology)*. 154. [https://doi.org/10.1101/2023.08.07.552261](https://www.biorxiv.org/content/10.1101/2023.08.07.552261)
+**Foxon, F.** (2024). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *Belgian Journal of Zoology (via PCI Ecology)*. 154:1-9. [https://doi.org/10.26496/bjz.2024.113](https://doi.org/10.26496/bjz.2024.113)
 
 **Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
 
