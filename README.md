@@ -68,9 +68,9 @@ _____________________________
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
 
-**Foxon, F.** (2024). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *Belgian Journal of Zoology (via PCI Ecology)*. 154:1-9. [https://doi.org/10.26496/bjz.2024.113](https://doi.org/10.26496/bjz.2024.113)
-
 **Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
+
+**Foxon, F.** (2024). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *Belgian Journal of Zoology (via PCI Ecology)*. 154:1-9. [https://doi.org/10.26496/bjz.2024.113](https://doi.org/10.26496/bjz.2024.113)
 
 **Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
 
