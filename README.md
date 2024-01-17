@@ -126,6 +126,8 @@ _____________________________
 
 ### Peer Reviews and Responses
 
+Post-Publication Review of 'Electronic Cigarette Use and Myocardial Infarction'. [https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1](https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1)
+
 Post-Publication Review of 'e-Cigarettes Used by Adolescents to Try to Quit Smoking Are Associated With Less Quitting: A Cross-Sectional Analysis of the National Youth Tobacco Survey'. [https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3](https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3)
 
 Post-Publication Review of 'Occam's Razor and Bayesian Measures of Likelihood Suggest Loch Ness Monsters Are Real Animals'. [https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1](https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1)
