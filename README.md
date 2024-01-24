@@ -61,11 +61,15 @@ _____________________________
 
 ### Publications
 
+<br>
+
 #### Physics and Astronomy
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
 
 **Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. 36:100486. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
+
+<br>
 
 #### Zoology and Paleontology
 
@@ -86,6 +90,8 @@ _____________________________
 **Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. [https://doi.org/10.31219/osf.io/x46hd](https://osf.io/x46hd/)
 
 **Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleontology*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
+
+<br>
 
 #### Public Health
 
@@ -111,11 +117,13 @@ Juul Labs Inc., **Foxon, F.** (2022). Juul Lab’s Submission to the Call for Ev
 
 Selya, A.S., **Foxon, F.** (2021). Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
-
 **Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. 56(10):1559–1563. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
 
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099
+Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
+
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
+
+<br>
 
 #### Cryptology
 
