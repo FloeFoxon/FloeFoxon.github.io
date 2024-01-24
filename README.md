@@ -61,47 +61,53 @@ _____________________________
 
 ### Publications
 
-<br>
-
-#### Physics and Astronomy
-
-**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
-
-**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. 36:100486. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
-
-<br>
-
-#### Zoology and Paleontology
-
 <!---**Foxon, F.** (2024). Heuvelmans the Heretic: Cryptozoology as Heterodox and Orthodox Science. *Interdisciplinary Science Reviews* (under revisions).
 
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.-->
+
+**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
 
 **Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
 
 **Foxon, F.** (2024). The Moa the Merrier: Resolving When the Dinornithiformes Went Extinct. *Belgian Journal of Zoology (via PCI Ecology)*. 154:1-9. [https://doi.org/10.26496/bjz.2024.114](https://doi.org/10.26496/bjz.2024.114)
 
+**Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
+
+**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. ntad228. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
+
 **Foxon, F.** (2023). Can Bayesian Statistics Be Used to Analyze Phenomena in Folk Zoology? *Journal of Scientific Exploration*. 37(3):570–571. [https://doi.org/10.31275/20233065](https://journalofscientificexploration.org/index.php/jse/article/view/3065)
+
+**Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20(18):6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
+
+**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. [https://doi.org/10.31219/osf.io/x46hd](https://osf.io/x46hd/)
+
+**Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. 2023/982. [https://ia.cr/2023/982](https://ia.cr/2023/982)
+
+**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. 164:107265. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
 
 **Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/). Translated to German and republished in *Skeptiker*. [https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023](https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023)
 
 **Foxon, F.** (2023). The Loch Ness Monster: If It's Real, Could It Be an Eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
 
-**Foxon, F.** (2023). Fast or Slow, How Long can Snakes Grow? *Bulletin of the Chicago Herpetological Society*. 58(8):123–124. [https://doi.org/10.31219/osf.io/x46hd](https://osf.io/x46hd/)
+**Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
+
+**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. 22:1940. [https://doi.org/10.31219/osf.io/y7r3d](https://osf.io/y7r3d/)
+
+**Foxon, F.** (2022). A treatise on the Rilke cryptogram. *Cryptologia*. 47(6):493–510. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
+
+**Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
 
 **Foxon, F.** (2021). Ammonoid Taxonomy with Supervised and Unsupervised Machine Learning Algorithms. *PCI Paleontology*. [https://doi.org/10.31233/osf.io/ewkx9](https://doi.org/10.31233/osf.io/ewkx9)
 
-<br>
+**Foxon, F.** (2021). Evaluating Modern System Dynamics Software for Use in Astrophysical Simulations. *Astronomy and Computing*. 36:100486. [https://doi.org/10.1016/j.ascom.2021.100486](https://doi.org/10.1016/j.ascom.2021.100486)
 
-#### Public Health
+**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. 56(10):1559–1563. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
 
-**Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
+**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. 38(1):1–5. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
 
-**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. ntad228. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
+**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
-**Foxon, F.**, Shiffman, S. (2023). Comment on Wang et al. Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study. *International Journal of Environmental Research and Public Health*. 20(18):6715. [https://doi.org/10.3390/ijerph20186715](https://www.mdpi.com/1660-4601/20/18/6715)
-
-**Foxon, F.** (2023). Re: "Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study". *Preventive Medicine*. 164:107265. [https://doi.org/10.1016/j.ypmed.2023.107444](https://doi.org/10.1016/j.ypmed.2023.107444)
+#### As Coauthor
 
 Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.** (2023). What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. 59(2):218–224. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
 
@@ -109,29 +115,9 @@ Selya, A.S., **Foxon, F.**, Chandra, S., Nealer, E. (2023). Meta-Analysis of E-C
 
 Juul Labs Inc., **Foxon, F.** (2022). Juul Lab’s Submission to the Call for Evidence on the Evaluation of the Legislative Framework for Tobacco Control. [https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf](https://www.juullabs.com/wp-content/uploads/2022/07/Juul-Labs-Submission-to-the-Call-for-Evidence-on-the-Evaluation-of-the-Legislative-Framework-for-Tobacco-Control.pdf)
 
-**Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
-
-**Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2022). Population-Level Counterfactual Trend Modelling to Examine the Relationship Between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. 22:1940. [https://doi.org/10.31219/osf.io/y7r3d](https://osf.io/y7r3d/)
-
-**Foxon, F.** (2021). Correlations Between COVID-19 Cases, Test Positivity Rates, and Vaccinations in the United States. *Qeios*. [https://doi.org/10.32388/QG3ALT](https://doi.org/10.32388/QG3ALT)
-
 Selya, A.S., **Foxon, F.** (2021). Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-**Foxon, F.** (2021). Estimating E-Cigarette Use Prevalence Among US Adolescents Using Vaping-Related Online Search Trends. *Substance Use & Misuse*. 56(10):1559–1563. [https://doi.org/10.1080/10826084.2021.1936054](https://doi.org/10.1080/10826084.2021.1936054)
-
 Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. 116(7):1848–1858. [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
-
-**Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
-
-<br>
-
-#### Cryptology
-
-**Foxon, F.** (2023). On the 32-Character Zodiac Cipher. *Cryptology ePrint Archive*. 2023/982. [https://ia.cr/2023/982](https://ia.cr/2023/982)
-
-**Foxon, F.** (2022). A treatise on the Rilke cryptogram. *Cryptologia*. 47(6):493–510. [https://doi.org/10.1080/01611194.2022.2092784](https://doi.org/10.1080/01611194.2022.2092784)
-
-**Foxon, F.** (2020). Finding Probable Frequency Sums to Reduce the Key Space of Homophonic Substitution Ciphers. *Journal of Young Investigators*. 38(1):1–5. [https://doi.org/10.22186/jyi.38.1.1-5](https://doi.org/10.22186/jyi.38.1.1-5)
 
 _____________________________
 
