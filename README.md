@@ -61,10 +61,11 @@ _____________________________
 
 ### Publications
 
-<!---**Foxon, F.** (2024). Heuvelmans the Heretic: Cryptozoology as Heterodox and Orthodox Science. *Interdisciplinary Science Reviews* (under revisions).
-
+<!---
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.-->
 **Foxon, F.**, Shiffman, S. (2024). Methodological considerations when assessing symptoms of nicotine dependence by cigarette and e-cigarette use behavior and brand. *Drug and Alcohol Dependence*. Accepted, in press.
+
+**Foxon, F.** (2024). Heuvelmans the Heretic and Hidden Animals. *Interdisciplinary Science Reviews*. Accepted, in press.
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
 
