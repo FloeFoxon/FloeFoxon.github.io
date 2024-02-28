@@ -67,7 +67,7 @@ _____________________________
 
 **Foxon, F.** (2024). Heuvelmans the Heretic and Hidden Animals. *Interdisciplinary Science Reviews*. Accepted, in press.
 
-**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). Accepted, in press.
+**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). [https://doi.org/10.1093/astrogeo/atae024](https://doi.org/10.1093/astrogeo/atae024)
 
 **Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
 
