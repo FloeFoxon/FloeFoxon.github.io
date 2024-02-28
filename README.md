@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Interdisciplinary Scientist
 
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}
+<!---![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}-->
 
 _____________________________
 
@@ -61,8 +61,8 @@ _____________________________
 
 ### Publications
 
-<!---
-**Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.-->
+**Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
+
 **Foxon, F.**, Shiffman, S. (2024). Methodological considerations when assessing symptoms of nicotine dependence by cigarette and e-cigarette use behavior and brand. *Drug and Alcohol Dependence*. Accepted, in press.
 
 **Foxon, F.** (2024). Heuvelmans the Heretic and Hidden Animals. *Interdisciplinary Science Reviews*. Accepted, in press.
