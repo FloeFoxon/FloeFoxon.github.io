@@ -63,6 +63,8 @@ _____________________________
 
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
+**Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking, 2020–2022. *Preventing Chronic Disease*. Accepted, in press.
+
 **Foxon, F.**, Shiffman, S. (2024). Methodological considerations when assessing symptoms of nicotine dependence by cigarette and e-cigarette use behavior and brand. *Drug and Alcohol Dependence*. Accepted, in press.
 
 **Foxon, F.** (2024). Heuvelmans the Heretic and Hidden Animals. *Interdisciplinary Science Reviews*. Accepted, in press.
