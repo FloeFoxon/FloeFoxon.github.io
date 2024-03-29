@@ -65,11 +65,11 @@ _____________________________
 
 **Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking, 2020–2022. *Preventing Chronic Disease*. Accepted, in press.
 
+**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). [https://doi.org/10.1093/astrogeo/atae024](https://doi.org/10.1093/astrogeo/atae024)
+
 **Foxon, F.** (2024). Heuvelmans the Heretic and Hidden Animals. *Interdisciplinary Science Reviews*. [https://doi.org/10.1177/03080188241233107](https://doi.org/10.1177/03080188241233107).
 
 **Foxon, F.**, Shiffman, S. (2024). Methodological considerations when assessing symptoms of nicotine dependence by cigarette and e-cigarette use behavior and brand. *Drug and Alcohol Dependence*. [https://doi.org/10.1016/j.drugalcdep.2024.111255](https://doi.org/10.1016/j.drugalcdep.2024.111255).
-
-**Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2). [https://doi.org/10.1093/astrogeo/atae024](https://doi.org/10.1093/astrogeo/atae024)
 
 **Foxon, F.** (2024). Bigfoot: If It's There, Could It Be a Bear? *Journal of Zoology* [https://doi.org/10.1111/jzo.13148](https://doi.org/10.1111/jzo.13148)
 
