@@ -61,6 +61,8 @@ _____________________________
 
 ### Publications
 
+**Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. Accepted, in press.
+
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
 **Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking, 2020–2022. *Preventing Chronic Disease*. Accepted, in press.
