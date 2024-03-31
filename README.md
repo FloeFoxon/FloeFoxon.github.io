@@ -66,7 +66,7 @@ _____________________________
 
 _____________________________
 
-### Publications
+### Articles
 
 **Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. Accepted, in press.
 
