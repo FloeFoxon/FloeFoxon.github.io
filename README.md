@@ -57,6 +57,13 @@ _____________________________
 
 
 
+
+_____________________________
+
+### Book
+
+**Foxon, F.** (2024). Folklore and Zoology. Routledge. ISBN 9781032757674. [https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674](https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674)
+
 _____________________________
 
 ### Publications
