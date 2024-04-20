@@ -72,7 +72,7 @@ _____________________________
 
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
-**Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking, 2020–2022. *Preventing Chronic Disease*. Accepted, in press.
+**Foxon, F.**, Niaura, R. (2024).  Methods US Adults Used to Stop Smoking, 2021–2022. *Preventing Chronic Disease*. Accepted, in press.
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2):2.29–2.31. [https://doi.org/10.1093/astrogeo/atae024](https://academic.oup.com/astrogeo/article/65/2/2.29/7635833?utm_source=authortollfreelink&utm_campaign=astrogeo&utm_medium=email&guestAccessKey=ca42728f-fd3c-4bac-820b-0d13224b1849)
 
