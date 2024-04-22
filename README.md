@@ -86,7 +86,7 @@ _____________________________
 
 **Foxon, F.** (2023). How prevalent is liver injury attributed to turmeric? *The American Journal of Medicine*. 137(1):e18. [https://doi.org/10.1016/j.amjmed.2023.10.001](https://doi.org/10.1016/j.amjmed.2023.10.001)
 
-**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. 26(5):650-651. [https://doi.org/10.1093/ntr/ntad228](https://doi.org/10.1093/ntr/ntad228)
+**Foxon, F.** (2023). Discordant device/brand reporting among adolescents who used e-cigarettes in the National Youth Tobacco Survey. *Nicotine & Tobacco Research*. 26(5):650-651. [https://doi.org/10.1093/ntr/ntad228]([https://doi.org/10.1093/ntr/ntad228](https://academic.oup.com/ntr/article/26/5/650/7425397?utm_source=authortollfreelink&utm_campaign=ntr&utm_medium=email&guestAccessKey=e328d869-f524-49e9-af3b-fc3196cc2346)
 
 **Foxon, F.** (2023). Can Bayesian Statistics Be Used to Analyze Phenomena in Folk Zoology? *Journal of Scientific Exploration*. 37(3):570–571. [https://doi.org/10.31275/20233065](https://journalofscientificexploration.org/index.php/jse/article/view/3065)
 
