@@ -62,7 +62,7 @@ _____________________________
 
 ### Book
 
-**Foxon, F.** (2024). Folklore and Zoology (1st edition). CRC Press (Taylor & Francis). ISBN: 9781032757674. DOI: 10.1201/9781003477211. [https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674](https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674)
+**Foxon, F.** (2024). Folklore and Zoology (1st edition). CRC Press (Taylor & Francis). ISBN: 9781032757674. [https://doi.org/10.1201/9781003477211](https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674)
 
 _____________________________
 
