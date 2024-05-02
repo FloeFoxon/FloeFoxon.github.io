@@ -178,6 +178,8 @@ _____________________________
 
 ### Media Appearances
 
+**Real-World Quitting** (2024). Tobacco Reporter. [https://tobaccoreporter.com/2024/05/01/real-world-quitting/](https://tobaccoreporter.com/2024/05/01/real-world-quitting/)
+
 **Junk e-cigarette study debunked** (2023). The Snowdon Substack. [https://snowdon.substack.com/p/junk-e-cigarette-study-debunked](https://snowdon.substack.com/p/junk-e-cigarette-study-debunked)
 
 **Giant Moa "Sightings" Were Last Reported In 1993, When Did They Go Extinct?** (2023). IFLScience. [https://www.iflscience.com/giant-moa-sightings-were-last-reported-in-1993-when-did-they-go-extinct-71286](https://www.iflscience.com/giant-moa-sightings-were-last-reported-in-1993-when-did-they-go-extinct-71286)
