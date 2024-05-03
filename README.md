@@ -178,6 +178,8 @@ _____________________________
 
 ### Media Appearances
 
+**Prescription for Controversy** (2024) Science. [https://doi.org/10.1126/science.z7vuqtq](https://doi.org/10.1126/science.z7vuqtq)
+
 **Real-World Quitting** (2024). Tobacco Reporter. [https://tobaccoreporter.com/2024/05/01/real-world-quitting/](https://tobaccoreporter.com/2024/05/01/real-world-quitting/)
 
 **Junk e-cigarette study debunked** (2023). The Snowdon Substack. [https://snowdon.substack.com/p/junk-e-cigarette-study-debunked](https://snowdon.substack.com/p/junk-e-cigarette-study-debunked)
