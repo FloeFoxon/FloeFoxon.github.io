@@ -226,7 +226,9 @@ ResearchGate: [Floe_Foxon](https://www.researchgate.net/profile/Floe_Foxon)
 Google Scholar: [Floe Foxon](https://scholar.google.com/citations?user=xVckGTMAAAAJ)
 
 
-Twitter: [@FloeFoxon](https://twitter.com/FloeFoxon)
+Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
+
+YouTube: [https://www.youtube.com/@FloeFoxon](https://www.youtube.com/@FloeFoxon)
 
 
 _____________________________
