@@ -220,8 +220,7 @@ Email: [ffoxon@pinneyassociates.com](mailto:ffoxon@pinneyassociates.com)
 ORCID: [0000-0002-4893-9178](https://orcid.org/0000-0002-4893-9178)
 
 
-ResearchGate: [https://www.researchgate.net/profile/Floe_Foxon)
-](https://www.researchgate.net/profile/Floe_Foxon)
+ResearchGate: [https://www.researchgate.net/profile/Floe_Foxon](https://www.researchgate.net/profile/Floe_Foxon)
 
 
 Google Scholar: [https://scholar.google.com/citations?user=xVckGTMAAAAJ](https://scholar.google.com/citations?user=xVckGTMAAAAJ)
