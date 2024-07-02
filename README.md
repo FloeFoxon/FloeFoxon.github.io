@@ -158,6 +158,8 @@ _____________________________
 
 ### Presentations
 
+**Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
+
 **Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking Cigarettes, 2020–2022. Poster presentation at the *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Edinburgh. [https://doi.org/10.31219/osf.io/2yuw4](https://doi.org/10.31219/osf.io/2yuw4)
 
 **Foxon, F.** (2023). Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. London. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
