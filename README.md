@@ -25,11 +25,11 @@ _____________________________
 _____________________________
 
 ### Positions
-
+<!---
 **Founder** \
 [Folk Zoology Society](https://linktr.ee/folkzoologysociety) \
 *2023-Present*
-
+-->
 
 **Data Analyst** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/floe-foxon/) \
@@ -67,10 +67,11 @@ _____________________________
 _____________________________
 
 ### Articles
-
+<!---
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
 **Foxon, F.**, Niaura, R. (2024).  Methods US Adults Used to Stop Smoking, 2021–2022. *Preventing Chronic Disease*. Accepted, in press.
+-->
 
 **Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. [https://doi.org/10.58009/aere-perennius0094](https://doi.org/10.58009/aere-perennius0094)
 
