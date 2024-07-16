@@ -62,7 +62,7 @@ _____________________________
 
 ### Book
 
-**Foxon, F.** (2024). Folklore and Zoology (1st edition). CRC Press (Taylor & Francis). ISBN: 9781032757674. [https://doi.org/10.1201/9781003477211](https://www.routledge.com/Folklore-and-Zoology/Foxon/p/book/9781032757674)
+**Foxon, F.** (2024). Folklore and Zoology (1st edition). CRC Press (Taylor & Francis). ISBN: 9781032757674. [https://doi.org/10.1201/9781003477211](https://doi.org/10.1201/9781003477211)
 
 _____________________________
 
@@ -70,7 +70,7 @@ _____________________________
 <!---
 **Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
-**Foxon, F.**, Niaura, R. (2024).  Methods US Adults Used to Stop Smoking, 2021–2022. *Preventing Chronic Disease*. Accepted, in press.
+**Foxon, F.**, Niaura, R. (2024).  Methods US Adults Used to Stop Smoking, 2021–2022. *MedRxiv*. [https://doi.org/10.1101/2024.07.11.24310141](https://doi.org/10.1101/2024.07.11.24310141).
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2024). Increased e-cigarette use prevalence is associated with decreased smoking prevalence among US adults. *Harm Reduction Journal*. [https://doi.org/10.1186/s12954-024-01056-0](https://doi.org/10.1186/s12954-024-01056-0)
 -->
