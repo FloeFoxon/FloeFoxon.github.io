@@ -32,7 +32,7 @@ _____________________________
 -->
 
 **Data Analyst** \
-[PinneyAssociates](https://www.pinneyassociates.com/team/floe-foxon/) \
+[Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/) \
 *2020-Present*
 
 
