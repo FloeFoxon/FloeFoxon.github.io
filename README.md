@@ -33,12 +33,12 @@ _____________________________
 -->
 
 **Data Analyst** \
-[Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/) \
+[PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
 *2020-Present*
 
 
 **Data Analyst** \
-[Action on Smoking and Health](https://ash.org.uk/home/) \
+[ASH](https://ash.org.uk/home/) \
 *2020*
 
 
