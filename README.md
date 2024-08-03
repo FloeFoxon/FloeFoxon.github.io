@@ -17,10 +17,6 @@ _____________________________
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
 
-**Professional Certificate** Data Science \
-[IBM](https://www.youracclaim.com/users/floe-foxon/badges) \
-*2020*
-
 
 
 _____________________________
@@ -51,6 +47,10 @@ _____________________________
 _____________________________
 
 ### Awards
+
+**Professional Certificate** Data Science \
+[IBM](https://www.youracclaim.com/users/floe-foxon/badges) \
+*2020*
 
 **First Year Scholarship Award for Academic Achievement** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
