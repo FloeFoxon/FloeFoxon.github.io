@@ -36,11 +36,11 @@ _____________________________
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
 *2020-Present*
 
-
+<!---
 **Data Analyst** \
 [ASH](https://ash.org.uk/home/) \
 *2020*
-
+-->
 
 **Undergraduate Research Fellow** \
 [Sanford Research](https://research.sanfordhealth.org/) \
