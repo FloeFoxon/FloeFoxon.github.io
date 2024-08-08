@@ -76,7 +76,7 @@ _____________________________
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2024). Increased e-cigarette use prevalence is associated with decreased smoking prevalence among US adults. *Harm Reduction Journal*. 21(136). [https://doi.org/10.1186/s12954-024-01056-0](https://doi.org/10.1186/s12954-024-01056-0)
 
-**Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. [https://doi.org/10.58009/aere-perennius0094](https://doi.org/10.58009/aere-perennius0094)
+**Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. 86-90. [https://doi.org/10.58009/aere-perennius0094](https://doi.org/10.58009/aere-perennius0094)
 
 **Foxon, F.** (2024). How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2):2.29–2.31. [https://doi.org/10.1093/astrogeo/atae024](https://academic.oup.com/astrogeo/article/65/2/2.29/7635833?utm_source=authortollfreelink&utm_campaign=astrogeo&utm_medium=email&guestAccessKey=ca42728f-fd3c-4bac-820b-0d13224b1849)
 
