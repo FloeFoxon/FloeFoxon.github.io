@@ -48,6 +48,10 @@ _____________________________
 
 ### Awards
 
+**Certificate** Data-Driven Astronomy \
+[University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
+*2024*
+
 **Professional Certificate** Data Science \
 [IBM](https://www.youracclaim.com/users/floe-foxon/badges) \
 *2020*
