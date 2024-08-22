@@ -28,7 +28,7 @@ _____________________________
 *2023-Present*
 -->
 
-**Data Analyst** \
+**Statistician/Data Analyst** \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
 *2020-Present*
 
@@ -53,7 +53,7 @@ _____________________________
 *2024*
 
 **Professional Certificate** Data Science \
-[IBM](https://www.youracclaim.com/users/floe-foxon/badges) \
+[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
 *2020*
 
 **First Year Scholarship Award for Academic Achievement** \
