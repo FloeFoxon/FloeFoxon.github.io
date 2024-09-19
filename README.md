@@ -142,28 +142,6 @@ Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conven
 
 _____________________________
 
-### Peer Reviews and Responses
-
-Post-Publication Review of 'Electronic Cigarette Use and Myocardial Infarction'. [https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1](https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1)
-
-Post-Publication Review of 'e-Cigarettes Used by Adolescents to Try to Quit Smoking Are Associated With Less Quitting: A Cross-Sectional Analysis of the National Youth Tobacco Survey'. [https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3](https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3)
-
-Post-Publication Review of 'Occam's Razor and Bayesian Measures of Likelihood Suggest Loch Ness Monsters Are Real Animals'. [https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1](https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1)
-
-Post-Publication Review of 'Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study'. [https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1](https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1)
-
-Response to Journal on 'Population-level counterfactual trend modelling to examine the relationship between smoking prevalence and e-cigarette use among US adults'. [https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2](https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2)
-
-Peer review of 'Automatic identification and morphological comparison of bivalve and brachiopod fossils based on deep learning'. [https://peerj.com/articles/16200/reviews/](https://peerj.com/articles/16200/reviews/)
-
-Post-Publication Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1)
-
-Post-Publication Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
-
-
-
-_____________________________
-
 ### Presentations
 
 **Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
@@ -182,7 +160,27 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 
 **Foxon, F.** & Selya, A.S. (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
 
+_____________________________
 
+### Peer Reviews and Responses
+
+Post-Publication Review of 'Hidden flaws in e-cigarette industry-funded studies'. [https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609](https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609)
+
+Post-Publication Review of 'Electronic Cigarette Use and Myocardial Infarction'. [https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1](https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1)
+
+Post-Publication Review of 'e-Cigarettes Used by Adolescents to Try to Quit Smoking Are Associated With Less Quitting: A Cross-Sectional Analysis of the National Youth Tobacco Survey'. [https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3](https://pubpeer.com/publications/4867759DFBA472200944BF2B64881D#3)
+
+Post-Publication Review of 'Occam's Razor and Bayesian Measures of Likelihood Suggest Loch Ness Monsters Are Real Animals'. [https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1](https://pubpeer.com/publications/654F5BDBD66100D2148E7ABE62F837#1)
+
+Post-Publication Review of 'Consumption of JUUL vs. Other E-Cigarette Brands among U.S. E-Cigarette Users: Evidence from Wave 5 of the PATH Study'. [https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1](https://pubpeer.com/publications/1FF8B75DFC81492DEBC8E214F63098#1)
+
+Response to Journal on 'Population-level counterfactual trend modelling to examine the relationship between smoking prevalence and e-cigarette use among US adults'. [https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2](https://pubpeer.com/publications/0C19CEA0C329F1C95FC0884C7A4AE1#2)
+
+Peer review of 'Automatic identification and morphological comparison of bivalve and brachiopod fossils based on deep learning'. [https://peerj.com/articles/16200/reviews/](https://peerj.com/articles/16200/reviews/)
+
+Post-Publication Review of 'Impact of the e-cigarette era on cigarette smoking among youth in the United States: A population-level study'. [https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1](https://pubpeer.com/publications/9F3E9313EAE06ED991EE4834D69C8E#1)
+
+Post-Publication Review of 'Use frequency and symptoms of nicotine dependence among adolescent E-cigarette users: Comparison of JUUL and Non-JUUL users'. [https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1](https://pubpeer.com/publications/57A74561DC4B1B43B91E18A95A24A5#1)
 
 _____________________________
 
