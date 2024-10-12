@@ -1,8 +1,8 @@
 # Floe Foxon
 ## Interdisciplinary Scientist
-<!--
+
 ![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Headshot.jpg){:height="50%" width="50%"}
--->
+
 
 _____________________________
 
