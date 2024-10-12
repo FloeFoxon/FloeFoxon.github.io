@@ -1,7 +1,7 @@
 # Floe Foxon
 ## Interdisciplinary Scientist
 <!--
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/self.png){:height="50%" width="50%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Headshot.jpg){:height="50%" width="50%"}
 -->
 
 _____________________________
@@ -31,12 +31,6 @@ _____________________________
 **Statistician/Data Analyst** \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
 *2020-Present*
-
-<!---
-**Data Analyst** \
-[ASH](https://ash.org.uk/home/) \
-*2020*
--->
 
 **Undergraduate Research Fellow** \
 [Sanford Research](https://research.sanfordhealth.org/) \
@@ -72,11 +66,8 @@ _____________________________
 _____________________________
 
 ### Articles
-<!---
-**Foxon, F.** (2024). The (In)Convenience of Disappearing Evidence In Fringe Zoology. *Skeptical Inquirer*. Accepted, in press.
 
-**Foxon, F.**, Niaura, R. (2024).  Methods US Adults Used to Stop Smoking, 2021–2022. *MedRxiv*. [https://doi.org/10.1101/2024.07.11.24310141](https://doi.org/10.1101/2024.07.11.24310141).
--->
+**Foxon, F.** (2025). Fringe Zoology: The (In)Convenience of Disappearing Evidence. *Skeptical Inquirer*. 49(1).
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2024). Increased e-cigarette use prevalence is associated with decreased smoking prevalence among US adults. *Harm Reduction Journal*. 21(136). [https://doi.org/10.1186/s12954-024-01056-0](https://doi.org/10.1186/s12954-024-01056-0)
 
