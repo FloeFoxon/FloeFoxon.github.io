@@ -1,5 +1,5 @@
 # Floe Foxon
-## Interdisciplinary Scientist
+## Scientist
 
 ![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Headshot.jpg){:height="50%" width="50%"}
 
@@ -228,6 +228,7 @@ Google Scholar: [https://scholar.google.com/citations?user=xVckGTMAAAAJ](https:/
 
 
 Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
+
 
 YouTube: [https://www.youtube.com/@FloeFoxon](https://www.youtube.com/@FloeFoxon)
 
