@@ -6,7 +6,7 @@ _____________________________
 ### **Education**
 
 **MSc** Data Science (Statistics) \
-[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
+[University of Leeds](https://eps.leeds.ac.uk/maths-statistics)
 *2024–2026*
 
 **BSc (Hons)** Physics with Astronomy (1<sup>st</sup> Class) \
