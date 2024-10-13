@@ -229,7 +229,7 @@ Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/f
 
 
 _____________________________
-
+<!---
 ### **My Favourite Equations**
 
 $$G_{\mu \nu} = \kappa T_{\mu \nu}$$
@@ -239,3 +239,4 @@ $$i \hbar \partial_t \psi = \hat{H} \psi$$
 $$S = k_B \ln(\Omega)$$
 
 $$e^{i \pi} = -1$$
+-->
