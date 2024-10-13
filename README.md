@@ -22,11 +22,6 @@ _____________________________
 _____________________________
 
 ### Positions
-<!---
-**Founder** \
-[Folk Zoology Society](https://linktr.ee/folkzoologysociety) \
-*2023-Present*
--->
 
 **Statistician/Data Analyst** \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
@@ -231,6 +226,9 @@ Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
 
 
 YouTube: [https://www.youtube.com/@FloeFoxon](https://www.youtube.com/@FloeFoxon)
+
+
+Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/folkzoologysociety)
 
 
 _____________________________
