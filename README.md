@@ -232,7 +232,3 @@ Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/f
 
 
 _____________________________
-
-<!---
-![selfie2](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/FloeAndArielleCompressed.jpg)
--->
