@@ -17,7 +17,7 @@ _____________________________
 
 _____________________________
 
-### **Positions**
+### **Experience**
 
 **Statistician/Data Analyst** \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
