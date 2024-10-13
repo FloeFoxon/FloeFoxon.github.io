@@ -1,4 +1,3 @@
-# Floe Foxon
 ## Scientist
 
 ![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Headshot.jpg){:height="50%" width="50%"}
@@ -7,7 +6,7 @@
 _____________________________
 
 
-### Education
+### **Education**
 
 **MSc** Data Science (Statistics) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
@@ -21,7 +20,7 @@ _____________________________
 
 _____________________________
 
-### Positions
+### **Positions**
 
 **Statistician/Data Analyst** \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
@@ -35,7 +34,7 @@ _____________________________
 
 _____________________________
 
-### Awards
+### **Awards**
 
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
@@ -54,13 +53,13 @@ _____________________________
 
 _____________________________
 
-### Book
+### **Book**
 
 **Foxon, F.** (2024). Folklore and Zoology (1st edition). CRC Press (Taylor & Francis). ISBN: 9781032757674. [https://doi.org/10.1201/9781003477211](https://doi.org/10.1201/9781003477211)
 
 _____________________________
 
-### Articles
+### **Articles**
 
 **Foxon, F.** (2025). Fringe Zoology: The (In)Convenience of Disappearing Evidence. *Skeptical Inquirer*. 49(1).
 
@@ -128,7 +127,7 @@ Selya, A.S., **Foxon, F.** (2021). Trends in Electronic Cigarette Use and Conven
 
 _____________________________
 
-### Presentations
+### **Presentations**
 
 **Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
 
@@ -148,7 +147,7 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 
 _____________________________
 
-### Peer Reviews and Responses
+### **Peer Reviews and Responses**
 
 Post-Publication Review of 'Hidden flaws in e-cigarette industry-funded studies'. [https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609](https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609)
 
@@ -170,7 +169,7 @@ Post-Publication Review of 'Use frequency and symptoms of nicotine dependence am
 
 _____________________________
 
-### Media Appearances
+### **Media Appearances**
 
 **New paper observes that as ecig use increases at the population level, smoking prevalence tends to decrease** (2024). Center of Excellence for the acceleration of Harm Reduction. [https://www.coehar.org/new-paper-observes-that-as-ecig-use-increases-at-the-population-level-smoking-prevalence-tends-to-decrease/](https://www.coehar.org/new-paper-observes-that-as-ecig-use-increases-at-the-population-level-smoking-prevalence-tends-to-decrease/)
 
@@ -208,7 +207,7 @@ _____________________________
 
 _____________________________
 
-### Contact and Socials
+### **Contact and Socials**
 
 Email: [ffoxon@pinneyassociates.com](mailto:ffoxon@pinneyassociates.com)
 
