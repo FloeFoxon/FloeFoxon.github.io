@@ -110,7 +110,7 @@ _____________________________
 
 **Foxon, F.** & Selya, A.S. (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. 115(12):2369–2378. [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
-#### As Coauthor
+#### **As Coauthor**
 
 Selya, A.S., Kim, S., Shiffman, S., Gitchell, J.G., **Foxon, F.** (2023). What Substances Are Adolescents Vaping? Estimating Nicotine-Specific and Cannabis-Specific Vaping from US National Youth Surveys. *Substance Use & Misuse*. 59(2):218–224. [https://doi.org/10.1080/10826084.2023.2267114](https://doi.org/10.1080/10826084.2023.2267114)
 
