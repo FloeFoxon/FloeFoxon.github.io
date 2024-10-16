@@ -229,14 +229,16 @@ Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/f
 
 
 _____________________________
-<!---
+
 ### **My Favourite Equations**
 
-$$G_{\mu \nu} = \kappa T_{\mu \nu}$$
+G<sub>&mu; &nu;</sub> = &kappa; T<sub>&mu; &nu;</sub>
 
-$$i \hbar \partial_t \psi = \hat{H} \psi$$
+S = k<sub>B</sub> ln(&Omega;)
 
-$$S = k_B \ln(\Omega)$$
+i ℏ ∂<sub>t</sub> &psi; = Ĥ &psi;
 
-$$e^{i \pi} = -1$$
--->
+e<sup> i &pi;</sup> = -1
+
+
+
