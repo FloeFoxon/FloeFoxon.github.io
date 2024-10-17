@@ -126,6 +126,8 @@ _____________________________
 
 ### **Presentations**
 
+**Foxon, F.** (2025). Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, MD.
+
 **Foxon, F.** (2024). Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
 
 **Foxon, F.**, Niaura, R. (2024). Methods Used by US Adults to Stop Smoking Cigarettes, 2020–2022. Poster presentation at the *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Edinburgh. [https://doi.org/10.31219/osf.io/2yuw4](https://doi.org/10.31219/osf.io/2yuw4)
