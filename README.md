@@ -19,9 +19,10 @@ _____________________________
 
 ### **Experience**
 
-**Statistician/Data Analyst** \
-[PAI](https://www.pinneyassociates.com/team/floe-foxon/) \
+**Scientist (Formerly Statistician/Data Analyst)** \
+[PAI](https://www.pinneyassociates.com/team/floe-foxon/)\
 *2020-Present*
+
 
 **Undergraduate Research Fellow** \
 [Sanford Research](https://research.sanfordhealth.org/) \
