@@ -19,7 +19,8 @@ _____________________________
 
 ### **Experience**
 
-**Scientist (Formerly Statistician/Data Analyst)** \
+**Scientist** \
+(Formerly Statistician/Data Analyst) \
 [PAI](https://www.pinneyassociates.com/team/floe-foxon/)\
 *2020-Present*
 
