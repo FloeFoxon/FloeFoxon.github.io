@@ -225,6 +225,9 @@ Google Scholar: [https://scholar.google.com/citations?user=xVckGTMAAAAJ](https:/
 Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
 
 
+Bluesky: [https://bsky.app/profile/floefoxon.bsky.social](https://bsky.app/profile/floefoxon.bsky.social)
+
+
 YouTube: [https://www.youtube.com/@FloeFoxon](https://www.youtube.com/@FloeFoxon)
 
 
