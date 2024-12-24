@@ -61,6 +61,8 @@ _____________________________
 ### **Articles**
 
 <!---
+**Foxon, F.**, Siegel, M. (2025). Scientific Inaccuracies in Smoking Cessation Guidance. *The American Journal of Medicine*. [https://doi.org/10.1016/j.amjmed.2024.12.003](https://doi.org/10.1016/j.amjmed.2024.12.003)
+
 **Foxon, F.**, Niaura, R. (2025). Use of nicotine products, prescription drug products, and other methods to stop smoking by US adults in the 2022 National Health Interview Survey. *Health Impact of Electronic Cigarettes and Tobacco Heating Systems Topical Collection - Internal and Emergency Medicine*. [https://doi.org/10.1007/s11739-024-03847-6](https://doi.org/10.1007/s11739-024-03847-6) 
 -->
 
