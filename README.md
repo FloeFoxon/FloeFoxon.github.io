@@ -239,7 +239,13 @@ YouTube: [https://www.youtube.com/@FloeFoxon](https://www.youtube.com/@FloeFoxon
 
 Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/folkzoologysociety)
 
+_____________________________
 
+### **Astrophotography**
+
+![Sun](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Foxon_Sun_20241228.png){:height="50%" width="50%"}
+
+![Moon](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20241208_Moon_Foxon.png){:height="50%" width="50%"}
 
 _____________________________
 
