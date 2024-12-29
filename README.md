@@ -243,9 +243,9 @@ _____________________________
 
 ### **Astrophotography**
 
-![Sun](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Foxon_Sun_20241228.png){:height="50%" width="50%"}
+![Sun](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Foxon_Sun_20241228.png){:height="75%" width="75%"}
 
-![Moon](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20241208_Moon_Foxon.png){:height="50%" width="50%"}
+![Moon](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20241208_Moon_Foxon.png){:height="75%" width="75%"}
 
 _____________________________
 
