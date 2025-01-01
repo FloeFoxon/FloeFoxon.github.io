@@ -66,7 +66,7 @@ _____________________________
 **Foxon, F.**, Niaura, R. (2025). Use of nicotine products, prescription drug products, and other methods to stop smoking by US adults in the 2022 National Health Interview Survey. *Health Impact of Electronic Cigarettes and Tobacco Heating Systems Topical Collection - Internal and Emergency Medicine*. [https://doi.org/10.1007/s11739-024-03847-6](https://doi.org/10.1007/s11739-024-03847-6) 
 -->
 
-**Foxon, F.** (2025). Fringe Zoology: The (In)Convenience of Disappearing Evidence. *Skeptical Inquirer*. 49(1).
+**Foxon, F.** (2025). Fringe Zoology: The (In)Convenience of Disappearing Evidence. *Skeptical Inquirer*. 49(1):57-61. [https://skepticalinquirer.org/2024/12/fringe-zoology-the-inconvenience-of-disappearing-evidence/](https://skepticalinquirer.org/2024/12/fringe-zoology-the-inconvenience-of-disappearing-evidence/)
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. (2024). Increased e-cigarette use prevalence is associated with decreased smoking prevalence among US adults. *Harm Reduction Journal*. 21(136). [https://doi.org/10.1186/s12954-024-01056-0](https://doi.org/10.1186/s12954-024-01056-0)
 
