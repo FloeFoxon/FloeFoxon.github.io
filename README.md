@@ -179,6 +179,8 @@ _____________________________
 
 **Smoking cessation trend: U.S survey reveals modified risk products among the most popular methods to quit** (2025). Center of Excellence for the acceleration of Harm Reduction. [https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/](https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/)
 
+**Smoking cessation trend: U.S survey reveals modified risk products among the most popular methods to quit** (2025). Center of Excellence for the acceleration of Harm Reduction. [https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/](https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/)
+
 **New paper observes that as ecig use increases at the population level, smoking prevalence tends to decrease** (2024). Center of Excellence for the acceleration of Harm Reduction. [https://www.coehar.org/new-paper-observes-that-as-ecig-use-increases-at-the-population-level-smoking-prevalence-tends-to-decrease/](https://www.coehar.org/new-paper-observes-that-as-ecig-use-increases-at-the-population-level-smoking-prevalence-tends-to-decrease/)
 
 **Prescription for Controversy** (2024). Science. [https://doi.org/10.1126/science.z7vuqtq](https://doi.org/10.1126/science.z7vuqtq)
