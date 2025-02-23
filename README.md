@@ -247,11 +247,9 @@ _____________________________
 
 ### **Astrophotography**
 
-![Moon](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20241208_Moon_Foxon.png){:height="75%" width="75%"}
+![Moon](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20241208_Moon_Foxon.jpg){:height="75%" width="75%"}
 
-![Sun](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20250201_Active_Regions_Foxon_Colour.png){:height="75%" width="75%"}
-
-![Jupiter](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Foxon_Jupiter_20241230_Gray_Compressed.png){:height="75%" width="75%"}
+![Sun](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/20250222_Foxon_Sun_Text.jpg){:height="75%" width="75%"}
 
 _____________________________
 
