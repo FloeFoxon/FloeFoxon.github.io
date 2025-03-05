@@ -232,6 +232,9 @@ ResearchGate: [https://www.researchgate.net/profile/Floe_Foxon](https://www.rese
 Google Scholar: [https://scholar.google.com/citations?user=xVckGTMAAAAJ](https://scholar.google.com/citations?user=xVckGTMAAAAJ)
 
 
+LinkedIn: [https://linkedin.com/in/floe-foxon-760256354](https://linkedin.com/in/floe-foxon-760256354)
+
+
 Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
 
 
