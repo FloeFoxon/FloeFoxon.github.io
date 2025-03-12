@@ -158,6 +158,8 @@ _____________________________
 
 ### **Peer Reviews and Responses**
 
+Post-Publication Review of 'Effect Comparison of E-Cigarette and Traditional Smoking and Association with Stroke-A Cross-Sectional Study of NHANES'. [https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2](https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2)
+
 Post-Publication Review of 'Hidden flaws in e-cigarette industry-funded studies'. [https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609](https://tobaccocontrol.bmj.com/content/early/2024/06/11/tc-2024-058609.responses#response-to-soule-et-al-hidden-flaws-in-e-cigarette-industry-funded-studies-tobacco-control-doi-101136-tc-2024-058609)
 
 Post-Publication Review of 'Electronic Cigarette Use and Myocardial Infarction'. [https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1](https://pubpeer.com/publications/CD0E2CD6E82EB2F69173F5A1193331#1)
