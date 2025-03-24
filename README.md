@@ -9,11 +9,13 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Expected)*
 
-**BSc (Hons)** Physics with Astronomy (1<sup>st</sup> Class) \
+**BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
 
-
+**GCE Advanced Level** Mathematics, Physics, Computer Science \
+[Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
+*2015-2017*
 
 _____________________________
 
@@ -35,12 +37,20 @@ _____________________________
 
 ### **Awards**
 
+**Chambliss Student Poster Competition Finalist** \
+[American Astronomical Society](https://aas.org) \
+*2025*
+
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
 *2024*
 
 **Professional Certificate** Data Science \
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
+*2020*
+
+**First Class Honours Award** \
+[University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2020*
 
 **First Year Scholarship Award for Academic Achievement** \
