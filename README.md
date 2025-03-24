@@ -13,7 +13,7 @@ _____________________________
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
 
-**GCE Advanced Level** Mathematics, Physics, Computer Science \
+**Advanced GCE** Mathematics, Physics, Computer Science \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
 
