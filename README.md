@@ -37,9 +37,11 @@ _____________________________
 
 ### **Awards**
 
+<!---
 **Chambliss Student Poster Competition Finalist** \
 [American Astronomical Society](https://aas.org) \
 *2025*
+-->
 
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
