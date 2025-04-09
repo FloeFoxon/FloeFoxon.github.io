@@ -112,7 +112,7 @@ _____________________________
 
 **Foxon, F.** (2023). If not a fake, what's in the lake? *The Skeptic*. [https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/](https://www.skeptic.org.uk/2023/06/whats-in-lake-champlain-analysing-historic-sightings-of-the-cryptid-known-as-champ/). Translated to German and republished in *Skeptiker*. [https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023](https://www.gwup.org/zeitschrift-skeptiker/archiv/147-wurzel/archiv-zeitschrift-skeptiker/2426-zeitschrift-skeptiker-3-2023)
 
-**Foxon, F.** (2023). The Loch Ness Monster: If It's Real, Could It Be an Eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://xbio.jmir.org/2023/1/e49063)
+**Foxon, F.** (2023). The Loch Ness Monster: If It's Real, Could It Be an Eel? *JMIRx Bio*. 1:e49063. [https://doi.org/10.2196/49063](https://doi.org/10.2196/49063)
 
 **Foxon, F.**, Shiffman, S. (2022). Attribution of Use Characteristics to Electronic Cigarette Brands in the National Youth Tobacco Survey. *Qeios*. [https://doi.org/10.32388/IRRATG](https://doi.org/10.32388/IRRATG)
 
