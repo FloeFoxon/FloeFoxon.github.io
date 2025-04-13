@@ -36,7 +36,7 @@ ____________________________
 
 ### **Continuing Education**
 
-**Summer School** Science \& Technology \
+**Summer School** Science & Technology \
 [Wolfram Institute](https://education.wolfram.com/summer-school/) \
 *2025*
 
