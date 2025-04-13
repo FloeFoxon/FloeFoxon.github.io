@@ -2,6 +2,20 @@
 
 _____________________________
 
+### **Experience**
+
+**Scientist and Data Analyst** \
+(Formerly Statistician/Data Analyst) \
+[PAI](https://www.pinneyassociates.com/team/floe-foxon/)\
+*2020-Present*
+
+
+**Undergraduate Research Fellow** \
+[Sanford Research](https://research.sanfordhealth.org/) \
+*2019*
+
+_____________________________
+
 
 ### **Education**
 
@@ -17,20 +31,26 @@ _____________________________
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
 
-_____________________________
-
-### **Experience**
-
-**Scientist and Data Analyst** \
-(Formerly Statistician/Data Analyst) \
-[PAI](https://www.pinneyassociates.com/team/floe-foxon/)\
-*2020-Present*
+____________________________
 
 
-**Undergraduate Research Fellow** \
-[Sanford Research](https://research.sanfordhealth.org/) \
-*2019*
+### **Continuing Education**
 
+**Summer School** Science \& Technology \
+[Wolfram Institute](https://education.wolfram.com/summer-school/) \
+*2025*
+
+**Summer School** Statistics for Astronomers \
+[Pennsylvania State University](https://sites.psu.edu/astrostatistics/su25/) \
+*2025*
+
+**Certificate** Data-Driven Astronomy \
+[University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
+*2024*
+
+**Professional Certificate** Data Science \
+[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
+*2020*
 
 
 _____________________________
@@ -42,14 +62,6 @@ _____________________________
 [American Astronomical Society](https://aas.org) \
 *2025*
 -->
-
-**Certificate** Data-Driven Astronomy \
-[University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
-*2024*
-
-**Professional Certificate** Data Science \
-[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
-*2020*
 
 **First Class Honours Award** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
@@ -168,7 +180,7 @@ Kleykamp, B.A. & **Foxon, F.** (2021) Comparing Smoking Prevalence, Quit Attempt
 
 _____________________________
 
-### **Peer Reviews and Responses**
+### **Professional Services**
 
 Post-Publication Review of 'Effect Comparison of E-Cigarette and Traditional Smoking and Association with Stroke-A Cross-Sectional Study of NHANES'. (2025). [https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2](https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2)
 
