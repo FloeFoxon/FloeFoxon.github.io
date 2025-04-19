@@ -90,7 +90,7 @@ _____________________________
 
 **Foxon, F.** (2025). Solar Cycles: Can They Be Predicted? *Research Notes of the American Astronomical Society*. 9(2):40. [https://doi.org/10.3847/2515-5172/adb60f](https://doi.org/10.3847/2515-5172/adb60f)
 
-**Foxon, F.**, Niaura, R. (2025). Use of nicotine products, prescription drug products, and other methods to stop smoking by US adults in the 2022 National Health Interview Survey. *Health Impact of Electronic Cigarettes and Tobacco Heating Systems Topical Collection - Internal and Emergency Medicine*. [https://doi.org/10.1007/s11739-024-03847-6](https://doi.org/10.1007/s11739-024-03847-6) 
+**Foxon, F.**, Niaura, R. (2025). Use of nicotine products, prescription drug products, and other methods to stop smoking by US adults in the 2022 National Health Interview Survey. *Health Impact of Electronic Cigarettes and Tobacco Heating Systems Topical Collection - Internal and Emergency Medicine*. 20:691-700. [https://doi.org/10.1007/s11739-024-03847-6](https://doi.org/10.1007/s11739-024-03847-6) 
 
 **Foxon, F.** (2025). Fringe Zoology: The (In)Convenience of Disappearing Evidence. *Skeptical Inquirer*. 49(1):57-61. [https://skepticalinquirer.org/2024/12/fringe-zoology-the-inconvenience-of-disappearing-evidence/](https://skepticalinquirer.org/2024/12/fringe-zoology-the-inconvenience-of-disappearing-evidence/)
 
