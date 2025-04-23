@@ -39,10 +39,11 @@ ____________________________
 **Summer School** Science & Technology \
 [Wolfram Institute](https://education.wolfram.com/summer-school/) \
 *2025*
-
+<!---
 **Summer School** Statistics for Astronomers \
 [Pennsylvania State University](https://sites.psu.edu/astrostatistics/su25/) \
 *2025*
+-->
 
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
