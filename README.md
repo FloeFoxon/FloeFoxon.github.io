@@ -183,6 +183,8 @@ _____________________________
 
 ### **Professional Services**
 
+Peer Review for Contributions to Tobacco & Nicotine Research (2025).
+
 Post-Publication Review of 'Effect Comparison of E-Cigarette and Traditional Smoking and Association with Stroke-A Cross-Sectional Study of NHANES'. (2025). [https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2](https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2)
 
 Peer Review for Addictive Behaviors (2025).
