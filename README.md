@@ -183,6 +183,8 @@ _____________________________
 
 ### **Professional Services**
 
+Peer Review for Drug and Alcohol Dependence (2025).
+
 Peer Review for Contributions to Tobacco & Nicotine Research (2025).
 
 Post-Publication Review of 'Effect Comparison of E-Cigarette and Traditional Smoking and Association with Stroke-A Cross-Sectional Study of NHANES'. (2025). [https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2](https://pubpeer.com/publications/1F118DC9A92A4FC13507BB5448462D#2)
@@ -196,6 +198,8 @@ Post-Publication Review of 'Hidden flaws in e-cigarette industry-funded studies'
 Peer Review for SSM - Qualitative Research in Health (2024).
 
 Peer Review for Internal and Emergency Medicine x2 (2024).
+
+Peer Review for Drug and Alcohol Dependence x2 (2024).
 
 Peer Review for Harm Reduction Journal x2 (2024).
 
