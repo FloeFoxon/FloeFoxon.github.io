@@ -183,6 +183,8 @@ _____________________________
 
 ### **Professional Services**
 
+Peer Review for Harm Reduction Journal (2025).
+
 Peer Review for Drug and Alcohol Dependence (2025).
 
 Peer Review for Contributions to Tobacco & Nicotine Research (2025).
