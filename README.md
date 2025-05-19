@@ -87,6 +87,9 @@ _____________________________
 
 <!---
 -->
+
+**Foxon, F.** (2025). Machine Learning for Text Classification in Classical Cryptography. *Proceedings of the 8th International Conference on Historical Cryptology HistoCrypt 2025*. 60-64. [https://hdl.handle.net/10062/109745](https://hdl.handle.net/10062/109745)
+
 **Foxon, F.**, Siegel, M. (2025). Scientific Inaccuracies in Smoking Cessation Guidance. *The American Journal of Medicine*. 138(4):e64-e65. [https://doi.org/10.1016/j.amjmed.2024.12.003](https://doi.org/10.1016/j.amjmed.2024.12.003)
 
 **Foxon, F.** (2025). Solar Cycles: Can They Be Predicted? *Research Notes of the American Astronomical Society*. 9(2):40. [https://doi.org/10.3847/2515-5172/adb60f](https://doi.org/10.3847/2515-5172/adb60f)
