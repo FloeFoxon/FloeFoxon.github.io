@@ -23,6 +23,10 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Expected)*
 
+**Summer School** Science & Technology (Physics and Artificial Intelligence) \
+[Wolfram Institute](https://education.wolfram.com/summer-school/) \
+*2025*
+
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
@@ -30,20 +34,10 @@ _____________________________
 **Advanced GCE** Mathematics, Physics, Computer Science \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
-
+<!--
 ____________________________
 
-
 ### **Continuing Education**
-
-**Summer School** Science & Technology \
-[Wolfram Institute](https://education.wolfram.com/summer-school/) \
-*2025*
-<!---
-**Summer School** Statistics for Astronomers \
-[Pennsylvania State University](https://sites.psu.edu/astrostatistics/su25/) \
-*2025*
--->
 
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
@@ -52,17 +46,11 @@ ____________________________
 **Professional Certificate** Data Science \
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
 *2020*
-
+-->
 
 _____________________________
 
 ### **Awards**
-
-<!---
-**Chambliss Student Poster Competition Finalist** \
-[American Astronomical Society](https://aas.org) \
-*2025*
--->
 
 **First Class Honours Award** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
@@ -324,10 +312,6 @@ i ℏ ∂<sub>t</sub> &psi; = Ĥ &psi;
 
 e<sup> i &pi;</sup> = -1
 
-
 _____________________________
-
-![endphoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Self.jpg){:height="40%" width="40%"}
-
 
 
