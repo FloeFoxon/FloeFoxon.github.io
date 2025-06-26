@@ -1,4 +1,4 @@
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Self.jpg){:height="40%" width="40%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Wolfram_Self.JPG){:height="40%" width="40%"}
 
 _____________________________
 
@@ -321,6 +321,11 @@ G<sub>&mu; &nu;</sub> = &kappa; T<sub>&mu; &nu;</sub>
 S = k<sub>B</sub> ln(&Omega;)
 
 i ℏ ∂<sub>t</sub> &psi; = Ĥ &psi;
+
+_____________________________
+
+![endphoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Self.jpg){:height="40%" width="40%"}
+
 
 e<sup> i &pi;</sup> = -1
 
