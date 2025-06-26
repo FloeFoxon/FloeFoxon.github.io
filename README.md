@@ -24,7 +24,7 @@ _____________________________
 *2024–2026 (Expected)*
 
 **Wolfram Summer School** Physics and Artificial Intelligence \
-[Wolfram Institute](https://education.wolfram.com/summer-school/) \
+[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
 *2025*
 
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
