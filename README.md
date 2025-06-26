@@ -34,8 +34,8 @@ _____________________________
 **Advanced GCE** Mathematics, Physics, Computer Science \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
-<!--
 
+<!---
 ### **Continuing Education**
 
 **Certificate** Data-Driven Astronomy \
