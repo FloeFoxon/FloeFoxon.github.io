@@ -23,7 +23,7 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Expected)*
 
-**Summer School** Science & Technology (Physics and Artificial Intelligence) \
+**Wolfram Summer School** Physics and Artificial Intelligence \
 [Wolfram Institute](https://education.wolfram.com/summer-school/) \
 *2025*
 
@@ -35,7 +35,6 @@ _____________________________
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
 <!--
-____________________________
 
 ### **Continuing Education**
 
