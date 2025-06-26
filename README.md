@@ -323,6 +323,8 @@ S = k<sub>B</sub> ln(&Omega;)
 i ℏ ∂<sub>t</sub> &psi; = Ĥ &psi;
 
 e<sup> i &pi;</sup> = -1
+
+
 _____________________________
 
 ![endphoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Self.jpg){:height="40%" width="40%"}
