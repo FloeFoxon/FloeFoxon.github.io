@@ -14,6 +14,10 @@ _____________________________
 [Sanford Research](https://research.sanfordhealth.org/) \
 *2019*
 
+**Python Programming Tutor** \
+CodeX ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
+*2018*
+
 _____________________________
 
 
