@@ -79,7 +79,7 @@ _____________________________
 <!---
 -->
 
-**Foxon, F.** (2025). Mining Pockets of Computational Reducibility with AI: Transformer Models of Graph Rewriting. *Wolfram Summer School Research Reports 2025*. [https://community.wolfram.com/groups/-/m/t/3495324](https://community.wolfram.com/groups/-/m/t/3495324)
+**Foxon, F.** (2025). Mining Pockets of Computational Reducibility with AI: Transformer Models of Graph Rewriting. *Wolfram Community, Staff Picks*. [https://community.wolfram.com/groups/-/m/t/3495324](https://community.wolfram.com/groups/-/m/t/3495324)
 
 **Foxon, F.** (2025). Machine Learning for Text Classification in Classical Cryptography. *Proceedings of the 8th International Conference on Historical Cryptology HistoCrypt 2025*. 60-64. [https://hdl.handle.net/10062/109745](https://hdl.handle.net/10062/109745)
 
