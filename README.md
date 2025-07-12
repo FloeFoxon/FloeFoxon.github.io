@@ -284,9 +284,6 @@ Google Scholar: [https://scholar.google.com/citations?user=xVckGTMAAAAJ](https:/
 LinkedIn: [https://linkedin.com/in/floe-foxon-760256354](https://linkedin.com/in/floe-foxon-760256354)
 
 
-Twitter: [https://twitter.com/FloeFoxon](https://twitter.com/FloeFoxon)
-
-
 Bluesky: [https://bsky.app/profile/floefoxon.bsky.social](https://bsky.app/profile/floefoxon.bsky.social)
 
 
