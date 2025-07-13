@@ -27,7 +27,7 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Expected)*
 
-**Wolfram Summer School** Artificial Intelligence (Physics Track) \
+**Wolfram Summer School** Artificial Intelligence (Physics and Foundational Science Track) \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
 *2025*
 
