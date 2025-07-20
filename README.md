@@ -6,16 +6,19 @@ _____________________________
 
 **Scientist and Data Analyst** \
 (Formerly Statistician/Data Analyst) \
-[PAI](https://www.pinneyassociates.com/team/floe-foxon/)\
+[Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/)\
+Pittsburgh, PA, USA \
 *2020-Present*
 
 
 **Undergraduate Research Fellow** \
 [Sanford Research](https://research.sanfordhealth.org/) \
+Sioux Falls, SD, USA \
 *2019*
 
 **Python Programming Tutor** \
 CodeX ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
+Nottingham, UK \
 *2018*
 
 _____________________________
@@ -25,7 +28,7 @@ _____________________________
 
 **MSc** Data Science (Statistics) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
-*2024–2026 (Expected)*
+*2024–2026*
 
 **Wolfram Summer School** Artificial Intelligence (Physics and Foundational Science Track) \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
