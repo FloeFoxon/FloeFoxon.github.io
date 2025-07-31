@@ -160,6 +160,8 @@ _____________________________
 
 **Foxon, F.**, Niaura, R. 2025. Predictive Performance and Validity of 'Gateway' Models. Oral presentation at the upcoming *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. Cluj Napoca, Romania.
 
+**Foxon, F.** 2025. Finding Reducibility with AI: Transformer Models of Graph Rewriting. Oral presentation for the *Wolfram Institute*, virtual. [https://www.youtube.com/live/Tkl_36RXjSc](https://www.youtube.com/live/Tkl_36RXjSc)
+
 **Foxon, F.** 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, MD. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
 
 **Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
