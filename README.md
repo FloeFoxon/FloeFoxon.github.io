@@ -11,7 +11,7 @@ Pittsburgh, PA, USA \
 *2020-Present*
 
 
-**Undergraduate Research Fellow** \
+**Research Scholar** \
 [Sanford Research](https://research.sanfordhealth.org/) \
 Sioux Falls, SD, USA \
 *2019*
