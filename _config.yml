@@ -1,7 +1,12 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-titles-from-headings
 minima:
   skin: dark
 title: Floe Foxon  –  Scientist # name of the site
 author: Floe Foxon
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
