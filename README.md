@@ -1,6 +1,6 @@
 # About Me
 
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/SelfCropped.jpg){:height="25%" width="25%"}
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/SelfCropped.jpg){:height="35%" width="35%"}
 
 _____________________________
 
@@ -102,7 +102,7 @@ Folk Zoology Society: [https://linktr.ee/folkzoologysociety](https://linktr.ee/f
 
 _____________________________
 
-### **My Favourite Equations**
+### **Favourite Equations**
 
 G<sub>&mu; &nu;</sub> = &kappa; T<sub>&mu; &nu;</sub>
 
