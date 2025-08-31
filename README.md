@@ -1,4 +1,7 @@
-![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/SelfCropped.jpg){:height="35%" width="35%"}
+
+# **About Me**
+
+![biophoto](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/SelfCropped.jpg){:height="25%" width="25%"}
 
 _____________________________
 
