@@ -10,14 +10,9 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-navigation:
-  - title: Astrophotography
-    url: /Astro
-  - title: Media Appearances
-    url: /Media
-  - title: Visualizations
-    url: /Vis
-  - title: Publications
-    url: /Works
-  - title: About Me
-    url: /
+header_pages:
+  - README.md
+  - Works.md
+  - Vis.md
+  - Media.md
+  - Astro.md
