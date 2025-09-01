@@ -11,18 +11,13 @@ titles_from_headings:
   strip_title: true
   collections: true
 nav:
-
   - title: Astrophotography
     url: /Astro
-  
   - title: Media Appearances
     url: /Media
-
   - title: Visualizations
     url: /Vis
-
   - title: Publications
     url: /Works
-    
   - title: About Me
     url: /
