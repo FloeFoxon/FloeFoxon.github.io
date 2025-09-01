@@ -10,9 +10,3 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-header_pages:
-  - Astro.md
-  - Media.md
-  - Vis.md
-  - Works.md
-  - README.md
