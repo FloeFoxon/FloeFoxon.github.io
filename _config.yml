@@ -11,8 +11,8 @@ titles_from_headings:
   strip_title: true
   collections: true
 header_pages:
-  - README.md
-  - Works.md
-  - Vis.md
-  - Media.md
   - Astro.md
+  - Media.md
+  - Vis.md
+  - Works.md
+  - README.md
