@@ -10,7 +10,7 @@ _____________________________
 (Formerly Statistician/Data Analyst) \
 [Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/)\
 Pittsburgh, PA, USA \
-*2020-Present*
+*2020–Present*
 
 
 **Research Scholar** \
