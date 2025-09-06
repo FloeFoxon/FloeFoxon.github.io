@@ -38,7 +38,7 @@ _____________________________
 
 **Advanced GCE** Mathematics, Physics, Computer Science \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
-*2015-2017*
+*2015–2017*
 
 **Professional Certificate** Data Science \
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
