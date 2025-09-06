@@ -32,10 +32,6 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026*
 
-**Wolfram Summer School** Artificial Intelligence (Physics and Foundational Science Track) \
-[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
-*2025*
-
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2017–2020*
@@ -43,6 +39,14 @@ _____________________________
 **Advanced GCE** Mathematics, Physics, Computer Science \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015-2017*
+
+**Professional Certificate** Data Science \
+[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
+*2020*
+
+**Wolfram Summer School** Artificial Intelligence (Physics and Foundational Science Track) \
+[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
+*2025*
 
 <!---
 ### **Continuing Education**
