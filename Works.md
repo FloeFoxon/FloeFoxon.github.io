@@ -87,7 +87,7 @@ _____________________________
 
 ### **Presentations**
 
-**Foxon, F.**, Niaura, R. 2025. Predictive Performance and Validity of 'Gateway' Models. Oral presentation at the upcoming *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. Cluj Napoca, Romania.
+**Foxon, F.**, Niaura, R. 2025. Predictive Performance and Validity of 'Gateway' Models. Oral presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. Cluj Napoca, Romania. [https://youtu.be/Gk84qe7NsY0](https://youtu.be/Gk84qe7NsY0)
 
 **Foxon, F.** 2025. Finding Reducibility with AI: Transformer Models of Graph Rewriting. Oral presentation for the *Wolfram Institute*, virtual. [https://www.youtube.com/live/Tkl_36RXjSc](https://www.youtube.com/live/Tkl_36RXjSc)
 
