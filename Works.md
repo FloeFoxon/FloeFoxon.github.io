@@ -113,6 +113,8 @@ _____________________________
 
 ### **Professional Services**
 
+Peer Review for Internal and Emergency Medicine. 2025.
+
 Peer Review for Harm Reduction Journal. 2025.
 
 Peer Review for Drug and Alcohol Dependence. 2025.
