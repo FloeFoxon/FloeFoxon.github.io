@@ -30,7 +30,11 @@ _____________________________
 
 **MSc** Data Science (Statistics) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
-*2024–2026*
+*2024–2026 (Exp)*
+
+**GCert** Artificial Intelligence and Machine Learning \
+[University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
+*2026 (Exp)*
 
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
