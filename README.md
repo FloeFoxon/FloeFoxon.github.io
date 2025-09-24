@@ -32,7 +32,7 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Exp)*
 
-**GCert** Artificial Intelligence and Machine Learning \
+**GCert** Artificial Intelligence: Foundations and Applications in AI/ML \
 [University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
 *2026 (Exp)*
 
