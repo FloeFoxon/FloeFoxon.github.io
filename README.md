@@ -48,7 +48,7 @@ _____________________________
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
 *2020*
 
-**Wolfram Summer School** Artificial Intelligence (Physics and Foundational Science Track) \
+**Wolfram Summer School** Physics and Foundational Science Track \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
 *2025*
 
