@@ -1,9 +1,3 @@
----
-layout: single
-title: "CV"
-sitemap: false
-permalink: /CV/
-author_profile: TRUE
----
+# CV
 
-<embed src="https://github.com/FloeFoxon/FloeFoxon.github.io/blob/main/Floe_Foxon_CV.pdf" type="application/pdf" />
+![CV](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Floe_Foxon_CV.pdf){:height="75%" width="75%"}
