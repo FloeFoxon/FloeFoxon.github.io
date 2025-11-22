@@ -32,7 +32,7 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2026 (Exp)*
 
-**GCert** Artificial Intelligence \
+**GCert** Artificial Intelligence and Machine Learning \
 [University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
 *2026 (Exp)*
 
@@ -49,7 +49,7 @@ _____________________________
 *2020*
 
 **Wolfram Summer School** Physics and Foundational Science Track \
-[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/) \
+[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
 *2025*
 
 <!---
