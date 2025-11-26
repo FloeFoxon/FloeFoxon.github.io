@@ -12,14 +12,13 @@ _____________________________
 Pittsburgh, PA, USA \
 *2020–Present*
 
-
 **Research Scholar** \
 [Sanford Research](https://research.sanfordhealth.org/) \
 Sioux Falls, SD, USA \
 *2019*
 
 **Python Programming Tutor** \
-CodeX ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
+CodeX, ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
 Nottingham, UK \
 *2018*
 
@@ -30,19 +29,28 @@ _____________________________
 
 **MSc** Data Science (Statistics) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
-*2024–2026 (Exp)*
+*2024–2026 (Exp)* \
+Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning
 
 **GCert** Artificial Intelligence and Machine Learning \
 [University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
-*2026 (Exp)*
+*2026 (Exp)* \
+Courses: Machine Learning, Deep Learning
 
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
-*2017–2020*
+*2017–2020* \
+Courses: Computing for Physical Science, Mathematics for Physics, Scientific Computing
 
-**Advanced GCE** Mathematics, Physics, Computer Science \
+**General Certificate of Education Advanced Level** \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
-*2015–2017*
+*2015–2017* \
+Subjects: Computer Science, Mathematics, Physics
+
+_____________________________
+
+
+### **Professional Development**
 
 **Professional Certificate** Data Science \
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
