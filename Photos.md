@@ -6,5 +6,5 @@
 #### 7th International Conference on Historical Cryptology (HistoCrypt). Kellogg College, University of Oxford, 25 June, 2024.
 ![histo](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Histocrypt_2024.jpeg){:height="75%" width="75%"}
 
-#### Conference Presentation Practice, Circa 2004.
-![first](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Practice_2004.jpg){:height="75%" width="75%"}
+#### Conference Presentation Practice, Circa 2005/6.
+![first](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Practice_20056.jpg){:height="75%" width="75%"}
