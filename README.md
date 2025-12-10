@@ -29,7 +29,7 @@ _____________________________
 
 **MSc** Data Science (Statistics) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
-*2024–2026 (Exp)* \
+*2024–2025* \
 Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning
 
 **GCert** Artificial Intelligence and Machine Learning \
