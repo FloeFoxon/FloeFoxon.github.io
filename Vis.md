@@ -1,5 +1,7 @@
 # Visualizations
 
+![pi](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Pi_Animation.gif){:height="75%" width="75%"}
+
 ![transformer](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Transformer_Animation.gif){:height="75%" width="75%"}
 
 ![gateway](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Gateway_Figure.gif){:height="75%" width="75%"}
