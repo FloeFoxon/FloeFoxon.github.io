@@ -35,7 +35,7 @@ Courses: Programming for Data Science, Statistical Computing, Bayesian Statistic
 **GCert** Artificial Intelligence and Machine Learning \
 [University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
 *2026 (Exp)* \
-Courses: Machine Learning, Deep Learning
+Courses: Machine Learning, AI in Healthcare, Deep Learning
 
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
