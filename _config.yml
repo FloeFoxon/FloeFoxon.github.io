@@ -4,7 +4,7 @@ plugins:
   - jekyll-titles-from-headings
 minima:
   skin: dark
-title: Floe Foxon  –  Scientist # name of the site
+title: Floe Foxon  –  Scientist·Analyst·Programmer # name of the site
 author: Floe Foxon
 titles_from_headings:
   enabled:     true
