@@ -1,5 +1,7 @@
 # Media Appearances
 
+**Up in smoke: Publisher pulls vaping paper nearly two years after complaint**. 2026. Retraction Watch. [https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/](https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/)
+
 **Double Take**. 2026. Orion. [https://orionmagazine.org/article/bigfoot-bears-jeff-vandermeer/](https://orionmagazine.org/article/bigfoot-bears-jeff-vandermeer/)
 
 **Smoking cessation trend: U.S survey reveals modified risk products among the most popular methods to quit**. 2025. Center of Excellence for the acceleration of Harm Reduction. [https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/](https://www.coehar.org/smoking-cessation-trend-u-s-survey-reveals-modified-risk-products-among-the-most-popular-methods-to-quit/)
