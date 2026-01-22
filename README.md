@@ -27,7 +27,7 @@ _____________________________
 
 ### **Education**
 
-**MSc** Data Science (Statistics) \
+**MSc** Data Science (Statistics) (Distinction Award) \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2024–2025* \
 Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning
@@ -76,6 +76,10 @@ _____________________________
 _____________________________
 
 ### **Awards**
+
+**Distinction Award** \
+[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
+*2026*
 
 **First Class Honours Award** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
