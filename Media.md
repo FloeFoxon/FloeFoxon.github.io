@@ -1,5 +1,7 @@
 # Media Appearances
 
+**Learner story: Floe Foxon**. 2026. University of Leeds Online Learning Blog. [https://www.leeds.ac.uk/online-courses/dir-record/online-courses-blog/23779/learner-story-floe-foxon](https://www.leeds.ac.uk/online-courses/dir-record/online-courses-blog/23779/learner-story-floe-foxon)
+
 **Up in smoke: Publisher pulls vaping paper nearly two years after complaint**. 2026. Retraction Watch. [https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/](https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/)
 
 **Double Take**. 2026. Orion. [https://orionmagazine.org/article/bigfoot-bears-jeff-vandermeer/](https://orionmagazine.org/article/bigfoot-bears-jeff-vandermeer/)
