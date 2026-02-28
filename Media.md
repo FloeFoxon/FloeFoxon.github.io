@@ -1,5 +1,7 @@
 # Media Appearances
 
+**Seeing the solar cycle's future**. 2026. Photonics Focus. [https://spie.org/news/photonics-focus/marchapril-2026/seeing-solar-cycle-future](https://spie.org/news/photonics-focus/marchapril-2026/seeing-solar-cycle-future)
+
 **Learner story: Floe Foxon**. 2026. University of Leeds Online Learning Blog. [https://www.leeds.ac.uk/online-courses/dir-record/online-courses-blog/23779/learner-story-floe-foxon](https://www.leeds.ac.uk/online-courses/dir-record/online-courses-blog/23779/learner-story-floe-foxon)
 
 **Up in smoke: Publisher pulls vaping paper nearly two years after complaint**. 2026. Retraction Watch. [https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/](https://retractionwatch.com/2026/01/20/up-in-smoke-publisher-pulls-vaping-paper-nearly-two-years-after-complaint/)
