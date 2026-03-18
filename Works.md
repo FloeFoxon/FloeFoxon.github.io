@@ -87,6 +87,8 @@ _____________________________
 
 ### **Presentations**
 
+**Foxon, F.** 2026. Science, Public Health & Risk: What the Evidence Actually Shows panel discussion at the Rethinking Nicotine: Science, Harm Reduction, and Sensible Policy conference. Pittsburgh, Pennsylvania.
+
 Mbaeyi, G., Edwards, P., **Foxon, F.**, & Mah, S. 2026. Consulting with online taught students to co-create effective data science summative assessment models. Poster presentation at the Leeds Institute for Teaching Excellence (LITE) Student Education Conference.
 
 **Foxon, F.** & Niaura, R. 2025. Predictive Performance and Validity of 'Gateway' Models. Oral presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. Cluj Napoca, Romania. [https://youtu.be/Gk84qe7NsY0](https://youtu.be/Gk84qe7NsY0)
