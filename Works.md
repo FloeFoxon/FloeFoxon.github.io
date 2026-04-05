@@ -11,7 +11,7 @@ _____________________________
 <!---
 -->
 
-**Foxon, F.** 2026. Tests for Randomness on a Typewritten Key Stream Extracted with Computer Vision and Classified with a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. Accepted - In press.
+**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted with Computer Vision and Classified with a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. Accepted - In press.
 
 **Foxon, F.** 2025. Mining Pockets of Computational Reducibility with AI: Transformer Models of Graph Rewriting. *Wolfram Community, Staff Picks*. [https://community.wolfram.com/groups/-/m/t/3495324](https://community.wolfram.com/groups/-/m/t/3495324)
 
