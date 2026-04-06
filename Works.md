@@ -11,7 +11,7 @@ _____________________________
 <!---
 -->
 
-**Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor Health Behaviour at the National Level Using Subnational Data. In progress.
+**Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data. In progress.
 
 **Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted with Computer Vision and Classified with a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. Accepted - In press.
 
