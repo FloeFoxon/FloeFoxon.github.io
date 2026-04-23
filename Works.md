@@ -121,6 +121,8 @@ _____________________________
 
 ### **Professional Services**
 
+Peer Review for American Journal of Health Behavior. 2026.
+
 Post-Publication Review of 'Ultra-processed foods and human health: the main thesis and the evidence'. 2026. [https://pubpeer.com/publications/0B9B403A013C210118FCDDA73B4D50#1](https://pubpeer.com/publications/0B9B403A013C210118FCDDA73B4D50#1)
 
 Peer Review for Internal and Emergency Medicine. 2025.
