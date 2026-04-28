@@ -62,17 +62,17 @@ _____________________________
 
 ### **Professional Development**
 
-**Professional Certificate** Data Science \
-[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
-*2020*
+**Wolfram Summer School** Physics and Foundational Science Track \
+[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
+*2025*
 
 **Certificate** Data-Driven Astronomy \
 [University of Sydney](https://coursera.org/share/06d8c3c0b9f95c51bae682db9ada2247) \
 *2024*
 
-**Wolfram Summer School** Physics and Foundational Science Track \
-[Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
-*2025*
+**Professional Certificate** Data Science \
+[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
+*2020*
 
 <!---
 ### **Continuing Education**
