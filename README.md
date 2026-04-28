@@ -66,6 +66,10 @@ _____________________________
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
 *2020*
 
+**Certificate** Data-Driven Astronomy \
+[University of Sydney](https://coursera.org/share/06d8c3c0b9f95c51bae682db9ada2247) \
+*2024*
+
 **Wolfram Summer School** Physics and Foundational Science Track \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
 *2025*
@@ -91,6 +95,14 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2026*
 
+**Leeds Partnership Awards Shortlisted Nominee (×2)** \
+[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
+*2026*
+
+**Chambliss Student Poster Competition Finalist** \
+[American Astronomical Society](https://aas.org/) \
+*2025*
+
 **First Class Honours Award** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2020*
@@ -98,7 +110,6 @@ _____________________________
 **First Year Scholarship Award for Academic Achievement** \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2018*
-
 
 
 
