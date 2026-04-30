@@ -62,7 +62,7 @@ _____________________________
 
 ### **Professional Development**
 
-**Wolfram Summer School** Physics and Foundational Science Track \
+**Wolfram Summer Research Institute** Physics and Foundational Science Track \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
 *2025*
 
