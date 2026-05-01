@@ -95,7 +95,7 @@ _____________________________
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2026*
 
-**Leeds Partnership Awards Shortlisted Nominee (×2)** \
+**Leeds Partnership Awards Nominee (×2)** \
 [University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
 *2026*
 
