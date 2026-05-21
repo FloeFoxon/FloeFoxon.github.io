@@ -55,7 +55,7 @@ Courses: Computing for Physical Science, Mathematics for Physics, Scientific Com
 **General Certificate of Education Advanced Level** \
 [Bishop Vesey's Grammar School](https://bvgs.co.uk/) \
 *2015–2017* \
-Subjects: Computer Science, Mathematics, Physics
+Subjects: Physics (Astrophysics), Computer Science, Mathematics
 
 _____________________________
 
