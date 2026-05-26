@@ -15,7 +15,7 @@ _____________________________
 
 **Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. Accepted - In Press.
 
-**Foxon, F.**, Niaura, R. 2026. Logistic regression is not enough: The need for Bayesian nonparametric modelling for causal inference using observational data, exemplified by the `gateway' effect. arXiv:2605.24847 [stat.AP]. [https://doi.org/10.48550/arXiv.2605.24847](https://doi.org/10.48550/arXiv.2605.24847)
+**Foxon, F.**, Niaura, R. 2026. Logistic regression is not enough: The need for Bayesian nonparametric modelling for causal inference using observational data, exemplified by the 'gateway' effect. arXiv:2605.24847 [stat.AP]. [https://doi.org/10.48550/arXiv.2605.24847](https://doi.org/10.48550/arXiv.2605.24847)
 
 **Foxon, F.** 2025. Mining Pockets of Computational Reducibility with AI: Transformer Models of Graph Rewriting. *Wolfram Community, Staff Picks*. [https://community.wolfram.com/groups/-/m/t/3495324](https://community.wolfram.com/groups/-/m/t/3495324)
 
