@@ -95,31 +95,33 @@ _____________________________
 
 ### **Presentations**
 
+**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. Poster presentation at the 9th International Conference on Historical Cryptology HistoCrypt 2026. Amiens, France.
+
 **Foxon, F.** 2026. Science, Public Health & Risk: What the Evidence Actually Shows panel discussion at the Rethinking Nicotine: Science, Harm Reduction, and Sensible Policy conference by Students for Sensible Drug Policy. Pittsburgh, Pennsylvania.
 
-Mbaeyi, G., Edwards, P., **Foxon, F.**, & Mah, S. 2026. Consulting with online taught students to co-create effective data science summative assessment models. Poster presentation at the Leeds Institute for Teaching Excellence (LITE) Student Education Conference.
+Mbaeyi, G., Edwards, P., **Foxon, F.**, & Mah, S. 2026. Consulting with online taught students to co-create effective data science summative assessment models. Poster presentation at the *Leeds Institute for Teaching Excellence (LITE) Student Education Conference*. Leeds, England.
 
 **Foxon, F.** & Niaura, R. 2025. Predictive Performance and Validity of 'Gateway' Models. Oral presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. Cluj Napoca, Romania. [https://youtu.be/Gk84qe7NsY0](https://youtu.be/Gk84qe7NsY0)
 
 **Foxon, F.** 2025. Finding Reducibility with AI: Transformer Models of Graph Rewriting. Oral presentation for the *Wolfram Institute*, virtual. [https://www.youtube.com/live/Tkl_36RXjSc](https://www.youtube.com/live/Tkl_36RXjSc)
 
-**Foxon, F.** 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, MD. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
+**Foxon, F.** 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, Maryland. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
 
-**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
+**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford, England. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
 
-**Foxon, F.**, Niaura, R. 2024. Methods Used by US Adults to Stop Smoking Cigarettes, 2020–2022. Poster presentation at the *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Edinburgh. [https://doi.org/10.31219/osf.io/2yuw4](https://doi.org/10.31219/osf.io/2yuw4)
+**Foxon, F.**, Niaura, R. 2024. Methods Used by US Adults to Stop Smoking Cigarettes, 2020–2022. Poster presentation at the *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Edinburgh, Scotland. [https://doi.org/10.31219/osf.io/2yuw4](https://doi.org/10.31219/osf.io/2yuw4)
 
-**Foxon, F.** 2023. Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. London. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
+**Foxon, F.** 2023. Updated Population-Level Counterfactual Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults and Adolescents. Poster presentation at the *Society for Research on Nicotine and Tobacco Europe (SRNT-E)* Conference. London, England. [https://doi.org/10.31219/osf.io/rknxp](https://osf.io/rknxp)
 
-**Foxon, F.** 2022. Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry. [https://doi.org/10.31219/osf.io/z937r](https://osf.io/z937r/)
+**Foxon, F.** 2022. Iron Abundance in the Solar Photosphere. Poster presentation at *The National Astronomy Meeting (NAM) 2022*. Coventry, England. [https://doi.org/10.31219/osf.io/z937r](https://osf.io/z937r/)
 
 **Foxon, F.** 2021. EVALI and the Internet. Video presentation at the *Global Forum on Nicotine 2021*. Virtual. [https://youtu.be/Q9SXPm-W26M](https://youtu.be/Q9SXPm-W26M)
 
 Kleykamp, B.A. & **Foxon, F.** 2021. Comparing Smoking Prevalence, Quit Attempts, and Harm Perceptions Among Younger and Older Smokers. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Virtual. [https://doi.org/10.31219/osf.io/8n3w6](https://doi.org/10.31219/osf.io/8n3w6)
 
-**Foxon, F.** & Selya, A.S. 2020. Electronic Cigarettes and Nicotine Use Trends among US Adolescents. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans. [https://doi.org/10.31219/osf.io/p8wkv](https://doi.org/10.31219/osf.io/p8wkv)
+**Foxon, F.** & Selya, A.S. 2020. Electronic Cigarettes and Nicotine Use Trends among US Adolescents. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans, Louisiana. [https://doi.org/10.31219/osf.io/p8wkv](https://doi.org/10.31219/osf.io/p8wkv)
 
-**Foxon, F.** & Selya, A.S. 2019. Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
+**Foxon, F.** & Selya, A.S. 2019. Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. Sioux Falls, South Dakota.
 
 _____________________________
 
