@@ -95,9 +95,9 @@ _____________________________
 
 ### **Presentations**
 
-**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. Poster presentation at the 9th International Conference on Historical Cryptology HistoCrypt 2026. Amiens, France.
+**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. Poster presentation at the *9th International Conference on Historical Cryptology HistoCrypt*. Amiens, France.
 
-**Foxon, F.** 2026. Science, Public Health & Risk: What the Evidence Actually Shows panel discussion at the Rethinking Nicotine: Science, Harm Reduction, and Sensible Policy conference by Students for Sensible Drug Policy. Pittsburgh, Pennsylvania.
+**Foxon, F.** 2026. Science, Public Health & Risk: What the Evidence Actually Shows panel discussion at the Students for Sensible Drug Policy's *Rethinking Nicotine: Science, Harm Reduction, and Sensible Policy* Conference. Pittsburgh, Pennsylvania.
 
 Mbaeyi, G., Edwards, P., **Foxon, F.**, & Mah, S. 2026. Consulting with online taught students to co-create effective data science summative assessment models. Poster presentation at the *Leeds Institute for Teaching Excellence (LITE) Student Education Conference*. Leeds, England.
 
@@ -107,7 +107,7 @@ Mbaeyi, G., Edwards, P., **Foxon, F.**, & Mah, S. 2026. Consulting with online t
 
 **Foxon, F.** 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, Maryland. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
 
-**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the 7th International Conference on Historical Cryptology *HistoCrypt*. Oxford, England. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
+**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the *7th International Conference on Historical Cryptology HistoCrypt*. Oxford, England. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
 
 **Foxon, F.**, Niaura, R. 2024. Methods Used by US Adults to Stop Smoking Cigarettes, 2020–2022. Poster presentation at the *Society for Research on Nicotine and Tobacco (SRNT)* Conference. Edinburgh, Scotland. [https://doi.org/10.31219/osf.io/2yuw4](https://doi.org/10.31219/osf.io/2yuw4)
 
