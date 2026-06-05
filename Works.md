@@ -95,6 +95,8 @@ _____________________________
 
 ### **Presentations**
 
+**Foxon, F.** 2026. Modelling Extreme Precipitation in Aotearoa (New Zealand) from 1951–2025 with Bootstrapping, Negative Binomial Regression, and Bayesian Additive Regression Trees. Poster presentation at the *Exeter Climate Forum 2026*. Exeter, England.
+
 **Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. Poster presentation at the *9th International Conference on Historical Cryptology HistoCrypt*. Amiens, France.
 
 **Foxon, F.** 2026. Science, Public Health & Risk: What the Evidence Actually Shows panel discussion at the Students for Sensible Drug Policy's *Rethinking Nicotine: Science, Harm Reduction, and Sensible Policy* Conference. Pittsburgh, Pennsylvania.
