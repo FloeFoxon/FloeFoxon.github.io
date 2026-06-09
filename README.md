@@ -28,7 +28,7 @@ Sioux Falls, SD, USA \
 *2019*
 
 **Python Programming Tutor** \
-CodeX, ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
+CodeX ([Enactus Nottingham](https://www.enactusnottingham.org/)) \
 Nottingham, UK \
 *2018*
 
