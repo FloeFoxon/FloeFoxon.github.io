@@ -13,7 +13,7 @@ _____________________________
 
 **Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data. Under Revisions.
 
-**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. NEALT Proceedings Series Number 61: 224-229. [https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf](https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf)
+**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. NEALT Proceedings Series Number 61:224-229. [https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf](https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf)
 
 **Foxon, F.** 2026. Trends in Nicotine Pouch Use, E-Cigarette Use, and Cigarette Smoking Among US Adults and Adolescents from National, Population-Level Data, 2019–2025. *Social Science Research Network (SSRN)*. [https://dx.doi.org/10.2139/ssrn.6850058](https://ssrn.com/abstract=6850058)
 
@@ -21,7 +21,7 @@ _____________________________
 
 **Foxon, F.** 2025. Mining Pockets of Computational Reducibility with AI: Transformer Models of Graph Rewriting. *Wolfram Community, Staff Picks*. [https://community.wolfram.com/groups/-/m/t/3495324](https://community.wolfram.com/groups/-/m/t/3495324)
 
-**Foxon, F.** 2025. Machine Learning for Text Classification in Classical Cryptography. *Proceedings of the 8th International Conference on Historical Cryptology HistoCrypt 2025*. NEALT Proceedings Series 58: 60-64. [https://hdl.handle.net/10062/109745](https://hdl.handle.net/10062/109745)
+**Foxon, F.** 2025. Machine Learning for Text Classification in Classical Cryptography. *Proceedings of the 8th International Conference on Historical Cryptology HistoCrypt 2025*. NEALT Proceedings Series 58:60-64. [https://hdl.handle.net/10062/109745](https://hdl.handle.net/10062/109745)
 
 **Foxon, F.**, Siegel, M. 2025. Scientific Inaccuracies in Smoking Cessation Guidance. *The American Journal of Medicine*. 138(4):e64-e65. [https://doi.org/10.1016/j.amjmed.2024.12.003](https://doi.org/10.1016/j.amjmed.2024.12.003)
 
@@ -33,7 +33,7 @@ _____________________________
 
 **Foxon, F.**, Selya, A.S., Gitchell, J.G., Shiffman, S. 2024. Increased e-cigarette use prevalence is associated with decreased smoking prevalence among US adults. *Harm Reduction Journal*. 21(136). [https://doi.org/10.1186/s12954-024-01056-0](https://doi.org/10.1186/s12954-024-01056-0)
 
-**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. NEALT Proceedings Series Number 53: 86-90. [https://doi.org/10.58009/aere-perennius0094](https://doi.org/10.58009/aere-perennius0094)
+**Foxon, F.** 2024. Artificial neural network for hoax cryptogram identification. *Proceedings of the 7th International Conference on Historical Cryptology HistoCrypt 2024*. NEALT Proceedings Series Number 53:86-90. [https://doi.org/10.58009/aere-perennius0094](https://doi.org/10.58009/aere-perennius0094)
 
 **Foxon, F.** 2024. How Much Iron Is In The Sun? *Astronomy & Geophysics*. 65(2):2.29–2.31. [https://doi.org/10.1093/astrogeo/atae024](https://academic.oup.com/astrogeo/article/65/2/2.29/7635833?utm_source=authortollfreelink&utm_campaign=astrogeo&utm_medium=email&guestAccessKey=ca42728f-fd3c-4bac-820b-0d13224b1849)
 
