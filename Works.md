@@ -13,7 +13,7 @@ _____________________________
 
 **Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data. Under Revisions.
 
-**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. NEALT Proceedings Series Number 61:224-229. [https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf](https://www.histocrypt.org/assets/files/Proceedings_Histocrypt_2026.pdf)
+**Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. NEALT Proceedings Series Number 61:224-229. [https://hdl.handle.net/10062/122067](https://hdl.handle.net/10062/122067)
 
 **Foxon, F.** 2026. Trends in Nicotine Pouch Use, E-Cigarette Use, and Cigarette Smoking Among US Adults and Adolescents from National, Population-Level Data, 2019–2025. *Social Science Research Network (SSRN)*. [https://dx.doi.org/10.2139/ssrn.6850058](https://ssrn.com/abstract=6850058)
 
