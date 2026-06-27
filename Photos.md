@@ -1,8 +1,8 @@
 # Photos
 
 #### 9th International Conference on Historical Cryptology (HistoCrypt). Logis du Roi, University of Picardy Jules Verne, 23–24 June, 2026.
-![histo261](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026.png){:height="75%" width="75%"}
-![histo262](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026_2.png){:height="75%" width="75%"}
+![histo261](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026.jpg){:height="75%" width="75%"}
+![histo262](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026_2.jpg){:height="75%" width="75%"}
 
 #### Society for Research on Nicotine and Tobacco - Europe (SNRT-E) Conference. Cluj-Napoca, Romania, 11 September, 2025.
 ![srnte](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/SRNTE_2025.jpg){:height="75%" width="75%"}
