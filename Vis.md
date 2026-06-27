@@ -4,6 +4,8 @@
 
 ![transformer](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Transformer_Animation.gif){:height="75%" width="75%"}
 
+![climate](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Climate_Figure.jpg){:height="75%" width="75%"}
+
 ![gateway](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Gateway_Figure.png){:height="75%" width="75%"}
 
 ![ammonoids](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Ammonoid_Figure.png){:height="75%" width="75%"}
