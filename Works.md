@@ -11,7 +11,7 @@ _____________________________
 <!---
 -->
 
-**Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data. [https://doi.org/10.4178/epih.e2026035](https://doi.org/10.4178/epih.e2026035)
+**Foxon, F.**, Sembower, M.A., Shiffman, S. 2026. Temporal Generalized Linear Mixed Models to Monitor National Health Behaviour Using Subnational Observational Data. *Epidemiology and Health*. e2026035. [https://doi.org/10.4178/epih.e2026035](https://doi.org/10.4178/epih.e2026035)
 
 **Foxon, F.** 2026. Statistical Tests for Randomness on a Typewritten Key Stream Extracted With Computer Vision and Classified With a Convolutional Neural Network. *Proceedings of the 9th International Conference on Historical Cryptology HistoCrypt 2026*. NEALT Proceedings Series Number 61:224-229. [https://hdl.handle.net/10062/122067](https://hdl.handle.net/10062/122067)
 
