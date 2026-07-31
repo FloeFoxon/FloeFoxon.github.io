@@ -118,7 +118,7 @@ _____________________________
 
 ### **Contact and Socials**
 
-Email: ffoxon (at) pinneyassociates (dot) com
+Email: ff5384 [at] eid [dot] utexas [dot] edu
 
 
 ORCID: [0000-0002-4893-9178](https://orcid.org/0000-0002-4893-9178)
