@@ -9,9 +9,11 @@ _____________________________
 
 Floe Foxon is an interdisciplinary scientist holding a Master of Science degree in Data Science (Statistics) from the University of Leeds with a Distinction award, and a First Class Honours degree in Physics with Astronomy from the University of Nottingham. As an undergraduate student, Floe was awarded a First Year Scholarship Award for Academic Achievement; completed a research scholarship with Sanford Research on population health modelling; and was published in peer-reviewed journals twice with his university project on stellar simulation modelling, and his personal project on cryptography.
 
-Since then, Floe has published dozens of works on varied topics from astronomy and public health to cryptography and zoology, using a wide range of statistical and computational methods including machine learning, system dynamics, and Bayesian statistics. His first book, *Folklore and Zoology*, was published by *CRC Press* in 2024. Floe has presented his works internationally at scientific conferences including *HistoCrypt*, the meeting of the *American Astronomical Society*, and *Society for Research on Nicotine and Tobacco* annual meetings. 
+Since then, Floe has published dozens of works on varied topics from astronomy and public health to cryptography and zoology, using a wide range of computational methods including machine learning, system dynamics, and Bayesian models. His first book, *Folklore and Zoology*, was published by *CRC Press* in 2024. Floe has presented his works internationally at scientific conferences including *HistoCrypt*, the meeting of the *American Astronomical Society*, and *Society for Research on Nicotine and Tobacco* annual meetings. 
 
-Floe's works have featured in *Science*, *New Scientist*, *Popular Mechanics* and others, earning recognition for his scientific assessment of pseudoscientific claims including the bigfoot myth and the 'gateway' drug hypothesis. He has over five years of experience as a statistician, scientist, and data analyst in the pharmaceutical and consumer healthcare industry, where he provided scientific consulting on products for approval or authorisation by the US Food and Drug Administration. BBC Radio's Colin Murray described Floe as "Scully and Mulder in one."
+Floe's works have featured in *Science*, *New Scientist*, *Popular Mechanics* and others, earning recognition for his scientific assessment of pseudoscientific claims including the bigfoot myth and the 'gateway' drug hypothesis. He has over five years of experience as a scientist, statistician, and data analyst in the pharmaceutical and consumer healthcare industry, where he provided scientific consulting on products for approval or authorisation by the US Food and Drug Administration. BBC Radio's Colin Murray described Floe as "Scully and Mulder in one." 
+
+Floe currently works as a forensic metascience Researcher at the Center for Scientific Integrity's Medical Evidence Project to reduce harm to patients and improve outcomes by finding and publicizing serious errors in the medical literature.
 
 _____________________________
 
@@ -68,6 +70,14 @@ _____________________________
 
 ### **Professional Development**
 
+**Summer Session in Epidemiology** Course: Simulation Modeling of Tobacco Use, Health Effects and Policy Impacts \
+[University of Michigan](https://sph.umich.edu/research-education/courses/course.php?courseID=EPID730) \
+*2026*
+
+**Human Research Training Certificate** \
+[CITI (MIT Affiliates)](https://www.citiprogram.org/verify/?wf46d791c-9063-4d86-a18e-97c9703a3bd2-77514866) \
+*2026*
+
 **Wolfram Summer Research Institute** Physics and Foundational Science Track \
 [Wolfram Research, Inc.](https://education.wolfram.com/summer-school/alumni/2025/) \
 *2025*
@@ -79,19 +89,6 @@ _____________________________
 **Professional Certificate** Data Science \
 [IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
 *2020*
-
-<!---
-### **Continuing Education**
-
-**Certificate** Data-Driven Astronomy \
-[University of Sydney](https://coursera.org/verify/J66SGE52TJWJ) \
-*2024*
-
-**Professional Certificate** Data Science \
-[IBM](https://coursera.org/share/197fac033831d2c9a5b676162e87fbdf) \
-*2020*
-
--->
 
 _____________________________
 
@@ -117,7 +114,15 @@ _____________________________
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
 *2018*
 
+_____________________________
 
+### **Skills**
+
+**Programming** \
+Python (scikit-learn, PyTorch, TensorFlow, pandas, Matplotlib), Jupyter Notebook, R, SQL, SAS, MATLAB, Java, Wolfram
+
+**Software** \
+GitHub, Microsoft Office 365/SharePoint, Google Workspace, Linux, Windows, Tableau, Mathematica
 
 _____________________________
 
