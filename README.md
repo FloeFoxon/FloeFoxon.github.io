@@ -17,11 +17,16 @@ _____________________________
 
 ### **Experience**
 
+**Researcher** \
+[Center for Scientific Integrity (Medical Evidence Project)](https://medicalevidenceproject.org/)\
+Remote, USA \
+*2026–Present*
+
 **Scientist and Data Analyst** \
 (Formerly Statistician) \
 [Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/)\
 Pittsburgh, PA, USA \
-*2020–Present*
+*2020–2026*
 
 **Research Scholar** \
 [Sanford Research](https://research.sanfordhealth.org/) \
