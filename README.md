@@ -20,9 +20,9 @@ _____________________________
 ### **Experience**
 
 **Researcher** \
-[Center for Scientific Integrity (Medical Evidence Project)](https://medicalevidenceproject.org/)\
+[The Center for Scientific Integrity (Medical Evidence Project)](https://medicalevidenceproject.org/)\
 Remote, USA \
-*2026–Present*
+*2026–Now*
 
 **Scientist and Data Analyst** \
 (Formerly Statistician) \
