@@ -51,7 +51,7 @@ _____________________________
 Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning
 
 **GCert** Artificial Intelligence and Machine Learning \
-[University of Texas at Austin](https://cns.utexas.edu/academics/why-study-in-texas-science/math-statistics-computer-science) \
+[University of Texas at Austin](https://computing.utexas.edu/) \
 *2026–2027* \
 Courses: AI in Astrophysics, Machine Learning, AI in Healthcare, Deep Learning
 
