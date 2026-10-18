@@ -109,7 +109,7 @@ Mbaeyi G, Edwards P, **Foxon F**, Mah S. 2026. Consulting with online taught stu
 
 **Foxon F**. 2025. Finding Reducibility with AI: Transformer Models of Graph Rewriting. Oral presentation for the *Wolfram Institute*, virtual. [https://www.youtube.com/live/Tkl_36RXjSc](https://www.youtube.com/live/Tkl_36RXjSc)
 
-**Foxon F**. 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the upcoming *245th meeting of the American Astronomical Society (AAS)*. National Harbor, Maryland. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
+**Foxon F**. 2025. Forecasting the Amplitude of Solar Cycles. Poster presentation at the *245th meeting of the American Astronomical Society (AAS)*. National Harbor, Maryland. [https://doi.org/10.17605/OSF.IO/QGJRA](https://doi.org/10.17605/OSF.IO/QGJRA)
 
 **Foxon F**. 2024. Artificial neural network for hoax cryptogram identification. Oral presentation at the *7th International Conference on Historical Cryptology HistoCrypt*. Oxford, England. [https://youtu.be/CYPkLXjKTmk](https://youtu.be/CYPkLXjKTmk)
 
