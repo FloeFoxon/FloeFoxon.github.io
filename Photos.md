@@ -1,5 +1,11 @@
 # Photos
 
+#### Meta-Research Symposium, 2026. NYU Langone Health, 27 October, 2026.
+![metaresearch](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/%20Meta_Research_Symposium_2026.jpg){:height="75%" width="75%"}
+
+#### Graduation Event. University of Leeds, 20 July, 2026.
+![graduation](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Leeds_Graduation.jpg){:height="75%" width="75%"}
+
 #### 9th International Conference on Historical Cryptology (HistoCrypt). Logis du Roi, University of Picardy Jules Verne, 23–24 June, 2026.
 ![histo262](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026_2.jpg){:height="75%" width="75%"}
 ![histo261](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/refs/heads/main/Histocrypt_2026.jpg){:height="75%" width="75%"}
@@ -16,5 +22,5 @@
 #### Conference Presentation Practice, Circa 2005/6.
 ![first](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Practice_20056.jpg){:height="75%" width="75%"}
 
-#### My Daughter, Madame, Forever in My Heart. 28 January, 2025.
+#### My Daughter, Madame. Never Far From My Mind, and Forever in My Heart. 28 January, 2025.
 ![Madame](https://raw.githubusercontent.com/FloeFoxon/FloeFoxon.github.io/main/Madame.jpeg){:height="75%" width="75%"}
