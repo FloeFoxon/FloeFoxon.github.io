@@ -26,7 +26,7 @@ Remote, USA \
 
 **Scientist and Data Analyst** \
 (Formerly Statistician) \
-[Pinney Associates, Inc.](https://www.pinneyassociates.com/team/floe-foxon/)\
+[Pinney Associates, Inc.](https://www.pinneyassociates.com/)\
 Pittsburgh, PA, USA \
 *2020–2026*
 
