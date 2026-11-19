@@ -45,15 +45,15 @@ _____________________________
 
 ### **Education**
 
-**MSc** Data Science (Statistics) (Distinction Award) \
-[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
-*2024–2025* \
-Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning
-
 **GCert** Artificial Intelligence and Machine Learning \
 [University of Texas at Austin](https://computing.utexas.edu/) \
 *2026–2027* \
 Courses: AI in Astrophysics, Machine Learning, AI in Healthcare, Deep Learning
+
+**MSc** Data Science (Statistics) (Distinction Award) \
+[University of Leeds](https://eps.leeds.ac.uk/maths-statistics) \
+*2024–2025* \
+Courses: Programming for Data Science, Statistical Computing, Bayesian Statistics, Machine Learning, Linear Modelling
 
 **BSc (Hons)** Physics with Astronomy (First Class Honours Award) \
 [University of Nottingham](https://www.nottingham.ac.uk/physics/) \
@@ -123,6 +123,22 @@ Python (scikit-learn, PyTorch, TensorFlow, pandas, Matplotlib), Jupyter Notebook
 
 **Software** \
 GitHub, Microsoft Office 365/SharePoint, Google Workspace, Linux, Windows, Tableau, Mathematica
+
+_____________________________
+
+### **Services**
+
+**Chair** \
+[Folk Zoology Conference 2024](https://youtu.be/_2CZMfyHQAM); [Folk Zoology Conference 2026](https://youtu.be/P01N6gyKty8)
+
+**Secretary** \
+[Conference on Historical Cryptology (HistoCrypt; 2026–2029)](https://www.histocrypt.org/org/)
+
+**Ambassador** \
+University of Nottingham (2018–2019); Students for Sensible Drug Policy (2026)
+
+**Peer Reviewer** \
+Research Evaluation; Scientific Reports; PeerJ; American Journal of Health Behavior; Drug and Alcohol Dependence; Harm Reduction Journal; Internal and Emergency Medicine; Contributions to Tobacco & Nicotine Research; Addictive Behaviors; SSM - Qualitative Research in Health; Nicotine & Tobacco Research
 
 _____________________________
 
